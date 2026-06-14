@@ -322,7 +322,7 @@
 .end method
 
 .method public static toTotalCaptureResult(Lcom/xiaomi/protocol/ICustomCaptureResult;IZ)Landroid/hardware/camera2/TotalCaptureResult;
-    .locals 22
+    .locals 24
 
     const-string v0, "|"
 
@@ -406,7 +406,7 @@
 
     if-lt v0, v7, :cond_0
 
-    const/16 v0, 0xb
+    const/16 v0, 0xd
 
     :try_start_1
     new-array v7, v0, [Ljava/lang/Class;
@@ -441,6 +441,20 @@
     const/16 v20, 0xa
 
     aput-object v19, v7, v20
+
+    # hasReadoutTimestamp
+    const/16 v22, 0xb
+
+    sget-object v19, Ljava/lang/Boolean;->TYPE:Ljava/lang/Class;
+
+    aput-object v19, v7, v22
+
+    # readoutTimestamp
+    const/16 v23, 0xc
+
+    sget-object v19, Ljava/lang/Long;->TYPE:Ljava/lang/Class;
+
+    aput-object v19, v7, v23
 
     .line 8
     invoke-virtual {v6, v7}, Ljava/lang/Class;->getDeclaredConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;
@@ -516,6 +530,20 @@
     move-result-object v18
 
     aput-object v18, v0, v20
+
+    # hasReadoutTimestamp, set to false (reuse v17 with value 0)
+    invoke-static/range {v17 .. v17}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
+
+    move-result-object v20
+
+    aput-object v20, v0, v22
+
+    # readoutTimestamp, set to 0
+    invoke-static/range {v17 .. v17}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    move-result-object v20
+
+    aput-object v20, v0, v23
 
     .line 11
     invoke-virtual {v7, v0}, Ljava/lang/reflect/Constructor;->newInstance([Ljava/lang/Object;)Ljava/lang/Object;
