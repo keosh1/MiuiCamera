@@ -804,7 +804,7 @@
 
     iget-boolean v5, v4, Lij/p;->z:Z
 
-    if-eqz v5, :cond_18
+    goto :cond_18
 
     iget v5, v4, Lij/p;->m:I
 
