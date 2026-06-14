@@ -5641,6 +5641,11 @@
 
     invoke-virtual {p0, p1}, Landroid/content/Intent;->addCategory(Ljava/lang/String;)Landroid/content/Intent;
 
+    # FLAG_ACTIVITY_NEW_TASK
+    const p1, 0x10000000
+
+    invoke-virtual {p0, p1}, Landroid/content/Intent;->addFlags(I)Landroid/content/Intent;
+
     invoke-virtual {v0, p0}, Landroid/app/Activity;->startActivity(Landroid/content/Intent;)V
 
     invoke-virtual {v0}, Lcom/android/camera/Camera;->pj()Z
