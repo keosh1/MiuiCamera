@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f9m">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d ساعت پیش</item>
+        <item quantity="one">%d ساعت پیش</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">تا %d ساعت دیگر</item>
+        <item quantity="one">تا %d ساعت دیگر</item>
+    </plurals>
+    <plurals name="f9q">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="f9r">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="f9s">
+        <item quantity="other">تا %d دقیقه دیگر</item>
+        <item quantity="one">تا %d دقیقه دیگر</item>
+    </plurals>
+    <plurals name="f9t">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="f9u">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">%d دقیقه پیش</item>
+    </plurals>
+    <plurals name="f9v">
+        <item quantity="other">زمان‌سنج %d ثانیه‌ای برای حالت شب</item>
+        <item quantity="one">زمان‌سنج %d ثانیه‌ای برای حالت شب</item>
+    </plurals>
+    <plurals name="f9w">
+        <item quantity="other">فوکوس شد. %d چهره شناسایی شد</item>
+        <item quantity="one">فوکوس شد. %d چهره شناسایی شد</item>
+    </plurals>
+    <plurals name="f9x">
+        <item quantity="other">%d عکس در یک عکس پشت‌ سر‌ هم</item>
+        <item quantity="one">%d عکس در یک عکس پشت‌ سر‌ هم</item>
+    </plurals>
+    <plurals name="f9y">
+        <item quantity="other">بازه: %d ثانیه</item>
+        <item quantity="one">بازه: %d ثانیه</item>
+    </plurals>
+    <plurals name="f9z">
+        <item quantity="other">مدت زمان: %d ثانیه</item>
+        <item quantity="one">مدت زمان: %d ثانیه</item>
+    </plurals>
+    <plurals name="f_0">
+        <item quantity="other">%d نویسه وارد شد.</item>
+        <item quantity="one">%d نویسه وارد شد.</item>
+    </plurals>
+    <plurals name="f_1">
+        <item quantity="other">حداکثر %d نویسه وارد کنید.</item>
+        <item quantity="one">حداکثر %d نویسه وارد کنید.</item>
+    </plurals>
+    <plurals name="f_2">
+        <item quantity="other">شما می‌توانید تا %d دوربین را به یک شبکه متصل کنید</item>
+        <item quantity="one">شما می‌توانید تا %d دوربین را به یک شبکه متصل کنید</item>
+    </plurals>
+    <plurals name="f_3">
+        <item quantity="other">شما می‌توانید تا %d نمایشگر را به یک شبکه متصل کنید</item>
+        <item quantity="one">شما می‌توانید تا %d نمایشگر را به یک شبکه متصل کنید</item>
+    </plurals>
+    <plurals name="f_4">
+        <item quantity="other">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
+        <item quantity="one">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
+    </plurals>
+    <plurals name="f_5">
+        <item quantity="other">&lt;Data>به دوربین متصل نمی‌شود.&lt;br>این برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. پس از آن، چند دقیقه صبر کرده و سپس دوباره تلاش کنید.&lt;/Data></item>
+        <item quantity="one">&lt;Data>به دوربین متصل نمی‌شود.&lt;br>این برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. پس از آن، چند دقیقه صبر کرده و سپس دوباره تلاش کنید.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_6">
+        <item quantity="other">&lt;Data>این دستگاه بسیار داغ شده است.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. فرایند کنونی به صورت خودکار ذخیره شده است.&lt;/Data></item>
+        <item quantity="one">&lt;Data>این دستگاه بسیار داغ شده است.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. فرایند کنونی به صورت خودکار ذخیره شده است.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_7">
+        <item quantity="other">&lt;Data>نسخه دوربینی که در حال استفاده هستید با مدل دستگاه شما سازگار نیست.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. به‌روزرسانی‌های دوربین را حذف کرده و دوباره تلاش کنید.&lt;/Data></item>
+        <item quantity="one">&lt;Data>نسخه دوربینی که در حال استفاده هستید با مدل دستگاه شما سازگار نیست.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. به‌روزرسانی‌های دوربین را حذف کرده و دوباره تلاش کنید.&lt;/Data></item>
+    </plurals>
+    <plurals name="f__">
+        <item quantity="other">%1$d دقیقه</item>
+        <item quantity="one">%1$d دقیقه</item>
+    </plurals>
+    <plurals name="f_a">
+        <item quantity="other">%1$d ثانیه</item>
+        <item quantity="one">%1$d ثانیه</item>
+    </plurals>
+    <plurals name="f_b">
+        <item quantity="other">زمان‌سنج روشن شد (%1$d ثانیه). عکس‌ها به این دستگاه منتقل خواهند شد.</item>
+        <item quantity="one">زمان‌سنج روشن شد (%1$d ثانیه). عکس‌ها به این دستگاه منتقل خواهند شد.</item>
+    </plurals>
+    <plurals name="f_c">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="f_d">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="f_e">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="f_f">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="f_g">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
+    <plurals name="f_h">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="f_i">
+        <item quantity="other">%1$d پیشنویس حذف شوند؟</item>
+        <item quantity="one">%1$d پیشنویس حذف شود؟</item>
+    </plurals>
+    <plurals name="f_j">
+        <item quantity="other">تا %d پیش‌تنظیم بیافزایید</item>
+        <item quantity="one">تا %d پیش‌تنظیم بیافزایید</item>
+    </plurals>
+    <plurals name="f_k">
+        <item quantity="other">%d مورد انتخاب شده</item>
+        <item quantity="one">%d مورد انتخاب شده</item>
+    </plurals>
+    <plurals name="f_n">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="f_o">
+        <item quantity="other">%d ث</item>
+        <item quantity="one">%d ث</item>
+    </plurals>
+    <plurals name="f_p">
+        <item quantity="other">%1$s دقیقه</item>
+        <item quantity="one">%1$s دقیقه</item>
+    </plurals>
+    <plurals name="f_q">
+        <item quantity="other">ضبط %d ثانیه</item>
+        <item quantity="one">ضبط %d ثانیه</item>
+    </plurals>
+    <plurals name="f_r">
+        <item quantity="other">تا %d سوژه می‌توانید برای ضبط ویدئوهای بی‌حرکت کردن زمان استفاده کنید</item>
+        <item quantity="one">ویدئوهای بی‌حرکت کردن زمان را فقط می‌توانید برای %d سوژه به‌کار برید</item>
+    </plurals>
+    <plurals name="f_s">
+        <item quantity="other">%1$s عکس</item>
+        <item quantity="one">%1$s عکس</item>
+    </plurals>
+</resources>

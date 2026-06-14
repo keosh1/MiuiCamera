@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/update_icon_iv" android:layout_width="@dimen/e7y" android:layout_height="@dimen/e7y" app:a7o="parent" app:a7s="parent" />
+    <TextView android:textSize="@dimen/e81" android:id="@id/update_title_tv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/i6m" android:layout_marginStart="@dimen/e82" android:layout_marginEnd="@dimen/e80" app:a75="parent" app:a7o="parent" app:a7s="parent" />
+    <TextView android:textSize="@dimen/e7z" android:textColor="@color/black_40_transparent_with_dark_mode" android:id="@id/update_size_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/e7x" app:a6z="@id/update_icon_iv" app:a7n="@id/update_icon_iv" app:a7r="@id/update_title_tv" />
+</androidx.constraintlayout.widget.ConstraintLayout>

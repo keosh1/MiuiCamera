@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="@dimen/bsw" android:color="@color/makeup_and_filter_item_when_halo_selector_cv" />
+            <corners android:radius="@dimen/by3" />
+        </shape>
+    </item>
+</layer-list>

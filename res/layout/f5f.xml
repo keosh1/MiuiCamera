@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/mode_item" android:layout_width="fill_parent" android:layout_height="@dimen/d5t"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/mode_icon" android:layout_width="@dimen/d_5" android:layout_height="@dimen/d_5" android:contentDescription="@null" android:layout_marginVertical="@dimen/d_4" />
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.android.camera.ui.AdaptiveMarqueeTextView android:textSize="@dimen/d_7" android:textColor="@color/mm_mode_item_name_color" android:gravity="center_horizontal" android:layout_gravity="bottom|center" android:id="@id/mode_name" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/d_6" android:maxLines="3" android:importantForAccessibility="no" android:elegantTextHeight="true" android:breakStrategy="balanced" android:fallbackLineSpacing="false" app:a6z="parent" app:a75="parent" app:a7o="parent" app:a7s="parent" app:aal="1.1" />
+        <com.airbnb.lottie.LottieAnimationView android:id="@id/mode_download_icon" android:layout_width="@dimen/d_0" android:layout_height="@dimen/d_0" app:a6z="@id/mode_name" app:a75="parent" app:a7n="@id/mode_name" app:a7s="@id/mode_name" app:a7t="0.3" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

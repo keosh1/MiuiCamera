@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:id="@id/video_prompter_edit_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/edit_head" android:layout_width="fill_parent" android:layout_height="@dimen/e_d" app:a75="parent" app:a7o="parent" app:a7s="parent">
+        <ImageView android:id="@id/edit_exit" android:layout_width="@dimen/e_e" android:layout_height="@dimen/e_e" android:src="@drawable/video_prompter_edit_exit" android:contentDescription="@string/gvz" android:layout_marginStart="@dimen/e_b" />
+        <ImageView android:id="@id/edit_undo" android:layout_width="@dimen/e_e" android:layout_height="@dimen/e_e" android:src="@drawable/video_prompter_edit_undo" android:contentDescription="@string/i8z" android:layout_marginEnd="@dimen/e_l" android:layout_toStartOf="@id/edit_redo" />
+        <ImageView android:id="@id/edit_redo" android:layout_width="@dimen/e_e" android:layout_height="@dimen/e_e" android:src="@drawable/video_prompter_edit_redo" android:contentDescription="@string/i8x" android:layout_marginEnd="@dimen/e_l" android:layout_toStartOf="@id/edit_done" />
+        <ImageView android:id="@id/edit_done" android:layout_width="@dimen/e_e" android:layout_height="@dimen/e_e" android:src="@drawable/video_prompter_edit_done" android:contentDescription="@string/gtz" android:layout_marginEnd="@dimen/e_c" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <TextView android:textSize="@dimen/e_k" android:textColor="@color/video_prompter_text_count_color" android:id="@id/total" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/e_j" app:a7o="parent" app:a7r="@id/edit_head" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" app:a70="@id/import_text_container" app:a75="parent" app:a7o="parent" app:a7r="@id/total">
+        <EditText android:textSize="@dimen/e_i" android:gravity="start|center|top" android:id="@id/edit_view" android:background="@null" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:singleLine="false" android:inputType="textLongMessage|textCapSentences|textImeMultiLine|textMultiLine" android:imeOptions="actionDone|flagNoFullscreen" android:textAlignment="textStart" android:paddingStart="@dimen/e_h" android:paddingEnd="@dimen/e_h" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/import_text_container" android:background="@drawable/bg_video_prompter_import_container" android:layout_width="fill_parent" android:layout_height="@dimen/e_n" app:a6z="parent" app:a75="parent" app:a7o="parent">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/import_text_view" android:layout_width="@dimen/e_p" android:layout_height="@dimen/e_p" android:layout_marginLeft="@dimen/e_o" android:src="@drawable/video_prompter_edit_import" />
+        <TextView android:textSize="@dimen/e_g" android:textColor="@color/video_prompter_import_text_color" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/e_f" android:text="@string/i8s" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

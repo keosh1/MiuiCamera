@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="6.3599854dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/effect_close_item" android:layout_width="@dimen/dts" android:layout_height="wrap_content" android:layout_marginStart="@dimen/dtz" android:layout_marginEnd="@dimen/dty">
+        <FrameLayout android:layout_gravity="center_vertical" android:layout_width="@dimen/dts" android:layout_height="@dimen/dua">
+            <com.android.camera.ui.NormalRoundView android:gravity="center" android:layout_gravity="center" android:focusable="false" android:clipChildren="false" android:layout_width="@dimen/dtr" android:layout_height="@dimen/du_" app:ajh="@dimen/du0">
+                <ImageView android:layout_gravity="center" android:id="@id/close_item_image" android:layout_width="@dimen/dtr" android:layout_height="@dimen/du_" android:scaleType="centerInside" android:layout_centerInParent="true" android:contentDescription="@null" />
+            </com.android.camera.ui.NormalRoundView>
+            <ImageView android:layout_gravity="center" android:id="@id/close_indicator" android:visibility="gone" android:layout_width="@dimen/dts" android:layout_height="@dimen/dua" android:src="@drawable/effect_filter_item_selector" android:contentDescription="@null" app:ajh="@dimen/du0" />
+        </FrameLayout>
+        <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/du2" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="bottom|center" android:layout_gravity="bottom|center" android:id="@id/name_text_view" android:layout_width="@dimen/dtr" android:layout_height="wrap_content" android:layout_marginTop="@dimen/duf" android:maxHeight="30.0dip" android:maxLines="2" android:shadowColor="@color/alpha24_black" android:shadowRadius="@dimen/duc" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/live_effect_updating" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:id="@id/live_effect_updating_progress" android:layout_width="15.0dip" android:layout_height="15.0dip" android:layout_marginBottom="@dimen/eeu" android:indeterminateDrawable="@drawable/post_process_progress_vector" android:indeterminateDuration="@integer/ep7" style="?android:progressBarStyleLarge" />
+        <TextView android:textSize="@dimen/c_0" android:textColor="@android:color/white" android:id="@id/live_effect_updating_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/eeu" android:text="@string/glr" android:layout_marginStart="11.0dip" />
+    </LinearLayout>
+    <com.android.camera.ui.EdgeGradientView android:id="@id/vlog_spring_layout" android:scrollbars="none" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <miuix.recyclerview.widget.RecyclerView android:id="@id/live_effect_list" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </com.android.camera.ui.EdgeGradientView>
+</LinearLayout>

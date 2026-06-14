@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aza">440.0dip</dimen>
+    <item type="dimen" name="azf">60.000004%</item>
+    <item type="dimen" name="azg">90.0%</item>
+    <item type="dimen" name="azh">60.000004%</item>
+    <item type="dimen" name="azi">90.0%</item>
+    <item type="dimen" name="azl">55.000008%</item>
+    <item type="dimen" name="azm">79.99999%</item>
+</resources>

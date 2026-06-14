@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center_horizontal" android:id="@id/ll_alert_recording_time_view" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:background="@drawable/toast_top_recommend_tip_bg_cv" android:paddingTop="@dimen/e6z" android:paddingBottom="@dimen/e6z" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/e6t" android:paddingEnd="@dimen/e6t">
+            <TextView android:layout_gravity="center_vertical" android:id="@id/alert_recording_time_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:fontFeatureSettings="tnum" style="@style/ir0" />
+            <TextView android:layout_gravity="center_vertical" android:id="@id/fastmotion_pro_alert_recording_time_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:drawablePadding="@dimen/bwn" android:drawableStart="@drawable/fastmotion_pro_ic_video_recordtime_indicator" android:layout_marginStart="@dimen/bwn" android:fontFeatureSettings="tnum" style="@style/ir0" />
+            <TextView android:layout_gravity="center_vertical" android:id="@id/alert_recording_numerator_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/iqz" />
+            <TextView android:layout_gravity="center_vertical" android:id="@id/alert_recording_time_denominator_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/iqy" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/alert_recording_time_denominator_infinity_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.1429749dip" android:maxLines="1" />
+        </LinearLayout>
+    </FrameLayout>
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/pro_video_recording_simple_view" android:background="@drawable/ic_vector_pro_video_recording_simple" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:layout_marginStart="@dimen/dr4" />
+    <include android:layout_gravity="end" android:id="@id/f93" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/f93" />
+    <LinearLayout android:gravity="end" android:layout_gravity="end" android:orientation="vertical" android:id="@id/end_gravity_tip_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/eb2">
+        <com.android.camera.ui.FastmotionIndicatorView android:id="@id/fastmotion_indicator" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bwy" app:xj="@dimen/bwl" app:a8n="@dimen/bwz" app:a8p="@dimen/bx0" app:a8s="@dimen/bx1" app:aex="true" app:af7="@dimen/bx2" app:ank="@dimen/bwm" />
+        <TextView android:textSize="@dimen/e5b" android:textColor="@color/white" android:gravity="center" android:id="@id/ai_audio_tip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/irp" />
+        <FrameLayout android:layout_gravity="center_vertical" android:id="@id/pro_parameter_light_graph_root_container" android:background="@drawable/pro_parameter_graph_background" android:visibility="gone" android:clickable="true" android:clipChildren="false" android:layout_width="@dimen/eb_" android:layout_height="@dimen/eba">
+            <com.android.camera.ui.HistogramView android:layout_gravity="center" android:id="@id/rgb_histogram" android:background="@drawable/shape_round_corner_histogram" android:visibility="gone" android:layout_width="@dimen/c3y" android:layout_height="@dimen/c3q" android:layout_marginTop="@dimen/c3r" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/pro_parameter_audio_graph_container" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="@dimen/e5b" android:textColor="@color/white" android:gravity="right" android:id="@id/i9j" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/irp" />
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="start" android:layout_gravity="start" android:orientation="vertical" android:id="@id/mishot_top_alert_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:id="@id/mishot_topalert_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/cm3">
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/mishot_close_view" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_vector_mode_close_mm" android:layout_marginEnd="10.0dip" />
+                <FrameLayout android:layout_gravity="center_vertical" android:id="@id/mishot_topalert_compute" android:background="@drawable/bg_mishot_top_alert_bg" android:layout_width="@dimen/ej0" android:layout_height="@dimen/eiz" android:layout_marginStart="@dimen/cm3">
+                    <TextureView android:id="@id/mishot_gl_textureview" android:focusable="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/cm9" android:layout_marginBottom="@dimen/cm9" android:contentDescription="@string/h3s" android:layout_marginStart="@dimen/cm9" android:layout_marginEnd="@dimen/cm9" />
+                    <com.android.camera.ui.HistogramView android:id="@id/mishot_histogramview" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/h26" />
+                </FrameLayout>
+                <FrameLayout android:layout_gravity="center_vertical" android:id="@id/pro_parameter_audio_graph" android:background="@drawable/bg_mishot_top_alert_bg" android:layout_width="@dimen/ebf" android:layout_height="@dimen/ebe" android:layout_marginStart="@dimen/clx">
+                    <com.android.camera.VolumeControlPanel android:id="@id/volume_control_panel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="bottom" android:id="@id/volume_silence_strengthen_switch" android:visibility="gone" android:layout_width="@dimen/eb9" android:layout_height="@dimen/eb8" android:src="@drawable/ic_volume_control__microphone_open_icon" android:scaleType="center" />
+                    <com.android.camera.AudioMapMove android:id="@id/audio_map_display" android:layout_width="fill_parent" android:layout_height="fill_parent" app:a_2="100" app:a_3="80" />
+                </FrameLayout>
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/cm3">
+                    <TextView android:textSize="@dimen/cma" android:textColor="@color/white" android:gravity="center" android:id="@id/mishot_calculate_time_textview" android:clickable="true" android:layout_width="@dimen/cmc" android:layout_height="@dimen/cm1" android:maxLines="2" android:shadowColor="@color/black" android:shadowRadius="2.0" android:lineSpacingExtra="@dimen/cmb" />
+                    <ImageView android:id="@id/mishot_log_view" android:visibility="invisible" android:layout_width="@dimen/cmc" android:layout_height="@dimen/b5w" android:layout_marginTop="@dimen/e6c" android:src="@drawable/ic_vector_log_view" />
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <com.android.camera.ui.BatteryView android:id="@id/mishot_battery_view" android:layout_width="@dimen/cmc" android:layout_height="@dimen/cm1" />
+                    <ImageView android:id="@id/mishot_eis_view" android:layout_width="@dimen/cmc" android:layout_height="@dimen/b5w" android:layout_marginTop="@dimen/e6c" android:src="@drawable/ic_vector_eis_view" />
+                </LinearLayout>
+                <LinearLayout android:gravity="end" android:layout_gravity="end" android:id="@id/mishot_recording_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <TextView android:gravity="end" android:layout_gravity="center_vertical" android:id="@id/mishot_recording_time_view" android:clickable="true" android:layout_width="@dimen/cm6" android:layout_height="@dimen/cm4" android:text="00:00:00:00" android:maxLines="1" android:shadowColor="@color/black" android:shadowRadius="1.0" android:layout_marginStart="@dimen/cm5" android:fontFeatureSettings="tnum" style="@style/im6" />
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/mishot_right_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:orientation="vertical" android:id="@id/mishot_left_tips" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/waveform_or_histogram_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/cm7" android:src="@drawable/top_alert_pro_parameter_waveform_selected_view" android:layout_marginStart="@dimen/clv" />
+                    <TextView android:textSize="@dimen/e5b" android:textColor="@color/white" android:gravity="right" android:id="@id/mishot_dolby_view" android:visibility="visible" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/cm7" android:layout_marginStart="@dimen/clv" style="@style/irp" />
+                    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="start" android:orientation="vertical" android:id="@id/start_gravity_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/ds5" android:paddingEnd="@dimen/ds6">
+                        <com.android.camera.ui.ColorImageView android:id="@id/esp_feature_tip" android:background="@drawable/ic_config_esp_display_shadow" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/drz" android:src="@drawable/ic_config_esp_display" />
+                        <ImageView android:id="@id/manually_parameter_description_tip" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/drz" android:src="@drawable/ic_parameter_description_entrance_normal" />
+                        <ImageView android:id="@id/reset_manually_parameter_tip" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_parameter_reset_normal" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/mishot_top_tips" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <include android:id="@id/top_tip_layout" layout="@layout/eyv" />
+                    <include android:id="@id/top_tip_softlight_adjust_view" android:visibility="gone" layout="@layout/f8f" />
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="end" android:layout_gravity="end" android:id="@id/mishot_recording_layout_pad" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:gravity="end" android:layout_gravity="center_vertical" android:id="@id/mishot_recording_time_view_pad" android:clickable="true" android:layout_width="@dimen/cm6" android:layout_height="@dimen/cm4" android:text="00:00:00:00" android:maxLines="1" android:shadowColor="@color/black" android:shadowRadius="1.0" android:layout_marginStart="@dimen/cm5" android:fontFeatureSettings="tnum" style="@style/im6" />
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

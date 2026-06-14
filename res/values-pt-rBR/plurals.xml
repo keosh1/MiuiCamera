@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f9m">
+        <item quantity="other">1 hora atrás</item>
+        <item quantity="one">1 hora atrás</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d hora atrás</item>
+        <item quantity="one">%d hora atrás</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Meia hora atrás</item>
+        <item quantity="one">Meia hora atrás</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">Em %d hora</item>
+        <item quantity="one">Em %d hora</item>
+    </plurals>
+    <plurals name="f9q">
+        <item quantity="other">Em meia hora</item>
+        <item quantity="one">Em meia hora</item>
+    </plurals>
+    <plurals name="f9r">
+        <item quantity="other">Imediatamente</item>
+        <item quantity="one">Imediatamente</item>
+    </plurals>
+    <plurals name="f9s">
+        <item quantity="other">Em %d min</item>
+        <item quantity="one">Em %d min</item>
+    </plurals>
+    <plurals name="f9t">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="f9u">
+        <item quantity="other">%d min atrás</item>
+        <item quantity="one">%d min atrás</item>
+    </plurals>
+    <plurals name="f9v">
+        <item quantity="other">Timer de %d segundos para o Modo noturno</item>
+        <item quantity="one">Timer de %d segundo para o Modo noturno</item>
+    </plurals>
+    <plurals name="f9w">
+        <item quantity="other">Focalizado. %d rostos detectados</item>
+        <item quantity="one">Focalizado. %d rosto detectado</item>
+    </plurals>
+    <plurals name="f9x">
+        <item quantity="other">%d fotos em disparo sequencial</item>
+        <item quantity="one">%d foto em disparo sequencial</item>
+    </plurals>
+    <plurals name="f9y">
+        <item quantity="other">Intervalo: %d segundos</item>
+        <item quantity="one">Intervalo: %d segundo</item>
+    </plurals>
+    <plurals name="f9z">
+        <item quantity="other">Duração: %d segundos</item>
+        <item quantity="one">Duração: %d segundo</item>
+    </plurals>
+    <plurals name="f_0">
+        <item quantity="other">Inseriu %d caracteres.</item>
+        <item quantity="one">Inseriu %d caractere.</item>
+    </plurals>
+    <plurals name="f_1">
+        <item quantity="other">Insira até %d caracteres.</item>
+        <item quantity="one">Insira até %d caractere.</item>
+    </plurals>
+    <plurals name="f_2">
+        <item quantity="other">Você pode conectar até %d câmeras à mesma rede</item>
+        <item quantity="one">Você pode conectar até %d câmera à mesma rede</item>
+    </plurals>
+    <plurals name="f_3">
+        <item quantity="other">Você pode conectar até %d monitores à mesma rede</item>
+        <item quantity="one">Você pode conectar até %d monitor à mesma rede</item>
+    </plurals>
+    <plurals name="f_4">
+        <item quantity="other">Você pode criar até %d clones por vez.</item>
+        <item quantity="one">Você pode criar até %d clone por vez.</item>
+    </plurals>
+    <plurals name="f_5">
+        <item quantity="other">&lt;Data>Não é possível conectar-se à câmera.&lt;br>Este app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Depois disso, aguarde alguns minutos e tente novamente.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Não é possível conectar-se à câmera.&lt;br>Este app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Depois disso, aguarde alguns minutos e tente novamente.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_6">
+        <item quantity="other">&lt;Data>Este dispositivo está superaquecido.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. O progresso atual foi salvo automaticamente.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Este dispositivo está superaquecido.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. O progresso atual foi salvo automaticamente.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_7">
+        <item quantity="other">&lt;Data>A versão da Câmera que você está utilizando não é compatível com o modelo do seu dispositivo.&lt;br>O app fechará em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstale as atualizações da Câmera e tente novamente.&lt;/Data></item>
+        <item quantity="one">&lt;Data>A versão da Câmera que você está utilizando não é compatível com o modelo do seu dispositivo.&lt;br>O app fechará em &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstale as atualizações da Câmera e tente novamente.&lt;/Data></item>
+    </plurals>
+    <plurals name="f__">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="f_a">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="f_b">
+        <item quantity="other">Timer ativado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
+        <item quantity="one">Timer ativado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
+    </plurals>
+    <plurals name="f_c">
+        <item quantity="other">Meia hora atrás</item>
+        <item quantity="one">Meia hora atrás</item>
+    </plurals>
+    <plurals name="f_d">
+        <item quantity="other">Em 1 hora</item>
+        <item quantity="one">Em 1 hora</item>
+    </plurals>
+    <plurals name="f_e">
+        <item quantity="other">Em meia hora</item>
+        <item quantity="one">Em meia hora</item>
+    </plurals>
+    <plurals name="f_f">
+        <item quantity="other">Imediatamente</item>
+        <item quantity="one">Imediatamente</item>
+    </plurals>
+    <plurals name="f_g">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="f_h">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="f_i">
+        <item quantity="other">Excluir %1$d rascunhos?</item>
+        <item quantity="one">Excluir %1$d rascunho?</item>
+    </plurals>
+    <plurals name="f_j">
+        <item quantity="other">Adicione até %d predefinições</item>
+        <item quantity="one">Adicione até %d predefinição</item>
+    </plurals>
+    <plurals name="f_k">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
+    <plurals name="f_m">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="f_n">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="f_o">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+    </plurals>
+    <plurals name="f_p">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="f_q">
+        <item quantity="other">Gravar %d segundos</item>
+        <item quantity="one">Gravar %d segundo</item>
+    </plurals>
+    <plurals name="f_r">
+        <item quantity="other">Você pode gravar vídeos com congelamento de tempo apenas com %d objetos.</item>
+        <item quantity="one">Você pode gravar vídeos com congelamento de tempo apenas com %d objeto.</item>
+    </plurals>
+    <plurals name="f_s">
+        <item quantity="other">%1$s fotos</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+</resources>

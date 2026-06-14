@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.ToggleSwitch android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/b1l" android:layout_marginTop="@dimen/b1n" app:jw="#33000000" app:k6="#66ffffff" app:k7="@dimen/b1k" app:op="false" app:at8="@string/hz8" app:at9="#b3ffffff" app:atb="@string/hz9" app:atc="#ffffffff" app:atj="@dimen/b1o" app:atw="#ff00a8ff" app:au1="@dimen/b1p"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

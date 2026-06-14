@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f9m">
+        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">Fa 1 hora</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">Fa %d hores</item>
+        <item quantity="one">Fa %d hora</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Fa mitja hora</item>
+        <item quantity="one">Fa mitja hora</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">En %d hores</item>
+        <item quantity="one">En %d hora</item>
+    </plurals>
+    <plurals name="f9q">
+        <item quantity="other">En mitja hora</item>
+        <item quantity="one">En mitja hora</item>
+    </plurals>
+    <plurals name="f9r">
+        <item quantity="other">Immediatament</item>
+        <item quantity="one">Immediatament</item>
+    </plurals>
+    <plurals name="f9s">
+        <item quantity="other">En %d mins</item>
+        <item quantity="one">En %d min</item>
+    </plurals>
+    <plurals name="f9t">
+        <item quantity="other">Ara mateix</item>
+        <item quantity="one">Ara mateix</item>
+    </plurals>
+    <plurals name="f9u">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa %d minut</item>
+    </plurals>
+    <plurals name="f9v">
+        <item quantity="other">Temporitzador de %d segons per al mode nocturn</item>
+        <item quantity="one">Temporitzador de %d segon per al mode nocturn</item>
+    </plurals>
+    <plurals name="f9w">
+        <item quantity="other">Enfocat. %d cares detectada</item>
+        <item quantity="one">Enfocat. %d de cara detectada</item>
+    </plurals>
+    <plurals name="f9x">
+        <item quantity="other">%d fotos mitjançant ràfega</item>
+        <item quantity="one">%d foto mitjançant ràfega</item>
+    </plurals>
+    <plurals name="f9y">
+        <item quantity="other">Interval: %d segons</item>
+        <item quantity="one">Interval: %d segon</item>
+    </plurals>
+    <plurals name="f9z">
+        <item quantity="other">Duració: %d segons</item>
+        <item quantity="one">Duració: %d segon</item>
+    </plurals>
+    <plurals name="f_0">
+        <item quantity="other">Heu introduit %d caràcters.</item>
+        <item quantity="one">Heu introduit %d caràcter.</item>
+    </plurals>
+    <plurals name="f_1">
+        <item quantity="other">Introduïu fins a %d caràcters.</item>
+        <item quantity="one">Introduïu fins a %d caràcter.</item>
+    </plurals>
+    <plurals name="f_2">
+        <item quantity="other">Podeu connectar fins a %d càmeres a la mateixa xarxa</item>
+        <item quantity="one">Podeu connectar fins a %d càmera a la mateixa xarxa</item>
+    </plurals>
+    <plurals name="f_3">
+        <item quantity="other">Podeu connectar fins a %d monitors a la mateixa xarxa</item>
+        <item quantity="one">Podeu connectar fins a %d monitor a la mateixa xarxa</item>
+    </plurals>
+    <plurals name="f_4">
+        <item quantity="other">Pots crear fins %d clons a la vegada.</item>
+        <item quantity="one">Pots crear fins %d clon a la vegada.</item>
+    </plurals>
+    <plurals name="f_5">
+        <item quantity="other">"&lt;Data>No es pot connectar a la càmera.&lt;br>Aquesta aplicació es tancarà d'aquí a &lt;font color=#FFCE16>&lt;b>%1$d segons&lt;/b>&lt;/font>. Després d'això, espereu un minut o dos i proveu-ho de nou.&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>No es pot connectar a la càmera.&lt;br>Aquesta aplicació es tancarà d'aquí a &lt;font color=#FFCE16>&lt;b>%1$d segon&lt;/b>&lt;/font>. Després d'això, espereu un minut o dos i proveu-ho de nou.&lt;/Data>"</item>
+    </plurals>
+    <plurals name="f_6">
+        <item quantity="other">"&lt;Data>Aquest dispositiu està massa calent ara.&lt;br>L'aplicació es tancarà d'aquí a &lt;font color=#FFCE16>&lt;b>%1$d segons&lt;/b>&lt;/font>. El progrés actual es va desar automàticament.&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>Aquest dispositiu està massa calent ara.&lt;br>L'aplicació es tancarà d'aquí a &lt;font color=#FFCE16>&lt;b>%1$d segon&lt;/b>&lt;/font>. El progrés actual es va desar automàticament.&lt;/Data>"</item>
+    </plurals>
+    <plurals name="f_7">
+        <item quantity="other">"&lt;Data>La versió de la Càmera que estàs utilitzant no és compatible amb el model del teu dispositiu.&lt;br>L'aplicació es tancarà a &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstal·leu les actualitzacions de la Càmera i torneu-ho a provar.&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>La versió de la Càmera que estàs utilitzant no és compatible amb el model del teu dispositiu.&lt;br>L'aplicació es tancarà a &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Desinstal·leu les actualitzacions de la Càmera i torneu-ho a provar.&lt;/Data>"</item>
+    </plurals>
+    <plurals name="f_8">
+        <item quantity="other">Avança ràpidament %d segons</item>
+        <item quantity="one">Avança ràpidament %d segon</item>
+    </plurals>
+    <plurals name="f_9">
+        <item quantity="other">Rebobina %d segons</item>
+        <item quantity="one">Rebobina %d segon</item>
+    </plurals>
+    <plurals name="f__">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="f_a">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="f_b">
+        <item quantity="other">Temporitzador activat (%1$d s). Les fotos es transferiran a aquest dispositiu.</item>
+        <item quantity="one">Temporitzador activat (%1$d s). Les fotos es transferiran a aquest dispositiu.</item>
+    </plurals>
+    <plurals name="f_c">
+        <item quantity="other">Fa mitja hora</item>
+        <item quantity="one">Fa mitja hora</item>
+    </plurals>
+    <plurals name="f_d">
+        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En 1 hora</item>
+    </plurals>
+    <plurals name="f_e">
+        <item quantity="other">En mitja hora</item>
+        <item quantity="one">En mitja hora</item>
+    </plurals>
+    <plurals name="f_f">
+        <item quantity="other">Immediatament</item>
+        <item quantity="one">Immediatament</item>
+    </plurals>
+    <plurals name="f_g">
+        <item quantity="other">en %d minuts</item>
+        <item quantity="one">en 1 minut</item>
+    </plurals>
+    <plurals name="f_h">
+        <item quantity="other">Ara mateix</item>
+        <item quantity="one">Ara mateix</item>
+    </plurals>
+    <plurals name="f_i">
+        <item quantity="other">Voleu eliminar %1$d esborranys?</item>
+        <item quantity="one">Voleu eliminar %1$d esborrany?</item>
+    </plurals>
+    <plurals name="f_j">
+        <item quantity="other">Afegeix fins a %d valors predefinits</item>
+        <item quantity="one">Afegeix fins a %d valor predefinit</item>
+    </plurals>
+    <plurals name="f_k">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
+    </plurals>
+    <plurals name="f_m">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
+    </plurals>
+    <plurals name="f_n">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
+    <plurals name="f_o">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>
+    <plurals name="f_p">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+    </plurals>
+    <plurals name="f_q">
+        <item quantity="other">Registra %d segons</item>
+        <item quantity="one">Registra %d segon</item>
+    </plurals>
+    <plurals name="f_r">
+        <item quantity="other">Podeu enregistrar vídeos congelats només amb %d persones.</item>
+        <item quantity="one">Podeu enregistrar vídeos congelats només amb %d persona.</item>
+    </plurals>
+    <plurals name="f_s">
+        <item quantity="other">%1$s fotos</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+</resources>

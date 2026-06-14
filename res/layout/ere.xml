@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="bottom|center" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/b7a"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.android.camera.ui.TopAlertSlideSwitchButton android:layout_gravity="bottom|center" android:id="@id/beauty_mode_switch" android:layout_width="wrap_content" android:layout_height="@dimen/e0a" android:layout_marginBottom="@dimen/b7c" app:pd="@dimen/e07" app:a4g="#ffffffff" app:a4z="true" app:at7="@dimen/dwx" app:atj="@dimen/e0c" />
+    <View android:id="@id/focus_area_cl" android:background="@color/transparent" android:layout_width="@dimen/dwx" android:layout_height="@dimen/b7a" />
+    <View android:id="@id/focus_area_or" android:background="@color/transparent" android:layout_width="@dimen/dwx" android:layout_height="@dimen/b7a" android:layout_marginStart="@dimen/dwx" />
+</FrameLayout>

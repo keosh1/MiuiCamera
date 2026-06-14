@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="db3">4.0dip</dimen>
+    <dimen name="db5">18.0dip</dimen>
+    <dimen name="db6">40.0dip</dimen>
+    <dimen name="db7">2.0dip</dimen>
+    <dimen name="db9">2.0dip</dimen>
+    <dimen name="db_">40.0dip</dimen>
+    <dimen name="dba">20.0dip</dimen>
+    <dimen name="dbl">128.0dip</dimen>
+    <dimen name="dbn">4.0dip</dimen>
+</resources>

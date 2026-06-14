@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ayq">48.0dip</dimen>
+    <dimen name="b0s">12.0dip</dimen>
+    <dimen name="b0u">14.0dip</dimen>
+    <dimen name="cke">450.0dip</dimen>
+    <dimen name="ckf">600.0dip</dimen>
+    <dimen name="cne">10.0dip</dimen>
+    <dimen name="cnf">10.0dip</dimen>
+    <dimen name="d_u">24.0dip</dimen>
+    <dimen name="d_x">24.0dip</dimen>
+    <dimen name="dba">20.0dip</dimen>
+    <dimen name="dbc">4.0dip</dimen>
+    <dimen name="dbg">96.0dip</dimen>
+    <dimen name="dbj">0.0dip</dimen>
+    <dimen name="dbk">0.0dip</dimen>
+    <dimen name="dbl">104.0dip</dimen>
+    <dimen name="dbt">68.0dip</dimen>
+    <dimen name="dbv">28.0dip</dimen>
+    <dimen name="dbw">64.0dip</dimen>
+    <dimen name="dbx">32.0dip</dimen>
+    <dimen name="dby">24.0dip</dimen>
+    <dimen name="dbz">32.0dip</dimen>
+</resources>

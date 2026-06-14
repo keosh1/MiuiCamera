@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="@dimen/bgo" android:layout_height="@dimen/bgk"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:layout_gravity="center" android:id="@id/clone_photo_item" android:layout_width="@dimen/bgq" android:layout_height="@dimen/bgp" android:paddingEnd="0.0dip" app:n1="@color/fullscreen_background" app:n4="@dimen/by3" app:n5="0.0dip">
+        <androidx.cardview.widget.CardView android:layout_gravity="center" android:id="@id/clone_photo_layout" android:layout_width="@dimen/bgn" android:layout_height="@dimen/bgj" android:paddingEnd="0.0dip" app:n1="@color/fullscreen_background" app:n4="@dimen/bsv" app:n5="0.0dip">
+            <ImageView android:id="@id/fzg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/clone_photo_mode_bg" android:scaleType="fitXY" android:contentDescription="@null" />
+            <TextView android:textSize="13.099976sp" android:textColor="@color/white" android:layout_gravity="start|bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/bgx" android:text="@string/fzg" android:shadowColor="#66000000" android:shadowDy="1.0" android:shadowRadius="1.0" android:layout_marginStart="@dimen/bgz" />
+        </androidx.cardview.widget.CardView>
+        <ImageView android:id="@id/clone_photo_mode_indicator" android:visibility="visible" android:layout_width="@dimen/bgq" android:layout_height="@dimen/bgp" android:src="@drawable/bg_vv_gallery_item_selected_cv" android:scaleType="fitXY" android:contentDescription="@null" />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

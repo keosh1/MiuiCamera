@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ibd" parent="@style/ibb" />
+    <style name="ibe" parent="@style/ibc" />
+    <style name="ijk" parent="@style/ijj">
+        <item name="android:outlineSpotShadowColor">#ff000000</item>
+        <item name="afj">@style/ic8</item>
+    </style>
+    <style name="il9" parent="@style/il7" />
+    <style name="il_" parent="@style/il8" />
+    <style name="im7" parent="@style/j6g">
+        <item name="android:checkboxStyle">@style/j8u</item>
+        <item name="o3">@drawable/miuix_appcompat_btn_checkbox_dark</item>
+        <item name="o4">@bool/ayd</item>
+        <item name="o5">@color/miuix_appcompat_dialog_default_checkbox_btn_on_background_color_dark</item>
+        <item name="o6">@color/miuix_appcompat_dialog_default_checkbox_btn_on_foreground_color_dark</item>
+        <item name="oa">@integer/eml</item>
+        <item name="ob">@integer/emn</item>
+        <item name="oc">@color/miuix_appcompat_checkbox_btn_disable_background_color_dark</item>
+        <item name="od">@color/miuix_appcompat_checkbox_btn_disable_background_color_dark</item>
+        <item name="oe">@color/miuix_appcompat_checkbox_btn_stroke_color_dark</item>
+        <item name="of">@integer/emp</item>
+        <item name="og">@integer/emr</item>
+        <item name="oj">@color/miuix_appcompat_checkable_btn_text_color_stable_dark</item>
+    </style>
+    <style name="im8" parent="@style/j6h">
+        <item name="android:radioButtonStyle">@style/j90</item>
+        <item name="oa">@integer/eml</item>
+        <item name="ob">@integer/emn</item>
+        <item name="oc">@color/miuix_appcompat_checkbox_btn_disable_background_color_dark</item>
+        <item name="od">@color/miuix_appcompat_checkbox_btn_disable_background_color_dark</item>
+        <item name="oe">@color/miuix_appcompat_checkbox_btn_stroke_color_dark</item>
+        <item name="of">@integer/emp</item>
+        <item name="og">@integer/emr</item>
+        <item name="oj">@color/miuix_appcompat_checkable_btn_text_color_stable_dark</item>
+        <item name="aja">@bool/ayd</item>
+        <item name="ajb">@color/miuix_appcompat_dialog_default_checkbox_btn_on_background_color_dark</item>
+        <item name="ajc">@color/miuix_appcompat_dialog_default_checkbox_btn_on_foreground_color_dark</item>
+    </style>
+    <style name="inq" parent="@style/inp" />
+    <style name="int" parent="@style/ins" />
+    <style name="inw" parent="@style/inv" />
+    <style name="ip1" parent="@style/ip0" />
+    <style name="ipr" parent="@style/ipq" />
+    <style name="ir3" parent="@style/ir2" />
+    <style name="iwq" parent="@style/iwo" />
+    <style name="iwr" parent="@style/iwo" />
+    <style name="iws" parent="@style/iwx" />
+    <style name="iwt" parent="@style/iwy" />
+    <style name="iwu" parent="@style/iwz" />
+    <style name="iwv" parent="@style/ix0" />
+    <style name="iww" parent="@style/ix9" />
+    <style name="ixn" parent="@style/ix_" />
+    <style name="ixo" parent="@style/ixa" />
+    <style name="ixp" parent="@style/ixb" />
+    <style name="ixq" parent="@style/ixc" />
+    <style name="ixr" parent="@style/ixd" />
+    <style name="ixs" parent="@style/ixe" />
+    <style name="ixt" parent="@style/ixf" />
+    <style name="ixu" parent="@style/ixg" />
+    <style name="ixv" parent="@style/ixh" />
+    <style name="ixw" parent="@style/ixi" />
+    <style name="ixx" parent="@style/ixj" />
+    <style name="ixy" parent="@style/ixk" />
+    <style name="ixz" parent="@style/ixl" />
+    <style name="iy0" parent="@style/ixm" />
+    <style name="iyr" parent="@style/iyk" />
+    <style name="iys" parent="@style/iyl" />
+    <style name="iyt" parent="@style/iym" />
+    <style name="iyu" parent="@style/iyn" />
+    <style name="iyv" parent="@style/iyo" />
+    <style name="iyw" parent="@style/iyp" />
+    <style name="iyx" parent="@style/iyq" />
+    <style name="iyz" parent="@style/iyy" />
+    <style name="izb" parent="@style/iz8" />
+    <style name="izc" parent="@style/iz9" />
+    <style name="izd" parent="@style/iz_" />
+    <style name="ize" parent="@style/iz8" />
+    <style name="izf" parent="@style/iz_" />
+    <style name="izg" parent="@style/izr" />
+    <style name="izh" parent="@style/izs" />
+    <style name="izi" parent="@style/izt" />
+    <style name="izj" parent="@style/izu" />
+    <style name="izk" parent="@style/izv" />
+    <style name="izl" parent="@style/izw" />
+    <style name="izm" parent="@style/izx" />
+    <style name="izn" parent="@style/izy" />
+    <style name="izo" parent="@style/izz" />
+    <style name="izp" parent="@style/j0f" />
+    <style name="izq" parent="@style/j0g" />
+    <style name="j0j" parent="@style/j0i" />
+    <style name="j0l" parent="@style/j0k" />
+    <style name="j0p" parent="@style/j0o" />
+    <style name="j0s" parent="@style/j0r" />
+    <style name="j0z" parent="@style/ixn">
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="y7">true</item>
+        <item name="a03">@style/j_g</item>
+        <item name="aii">@style/j0j</item>
+    </style>
+    <style name="j12" parent="@style/j11">
+        <item name="a03">@style/j_g</item>
+    </style>
+    <style name="j1_" parent="@style/j18" />
+    <style name="j26" parent="@style/j25" />
+    <style name="j4t" parent="@style/j4s" />
+    <style name="j5v" parent="@style/j5t" />
+    <style name="j5x" parent="@style/j5u" />
+    <style name="j7z" parent="@style/j7y" />
+    <style name="j96" parent="@style/j95" />
+    <style name="j9s" parent="@style/j9r" />
+    <style name="j9v" parent="@style/j9u" />
+    <style name="j9y" parent="@style/j9x" />
+    <style name="j_0" parent="@style/j9z" />
+    <style name="j_4" parent="@style/j_3" />
+    <style name="j_8" parent="@style/j_7" />
+    <style name="j_c" parent="@style/j_b" />
+    <style name="j_h" parent="@style/j_f" />
+    <style name="j_m" parent="@style/j_l" />
+    <style name="j_q" parent="@style/j_p" />
+    <style name="j_w" parent="@style/j_v" />
+    <style name="ja1" parent="@style/ja0" />
+    <style name="jed" parent="@style/jef" />
+    <style name="jei" parent="@style/jej" />
+    <style name="jer" parent="@style/jep" />
+    <style name="jeu" parent="@style/jes" />
+    <style name="jgk" parent="@style/jgg" />
+    <style name="jgy" parent="@style/jgw" />
+    <style name="jhn" parent="@style/jho" />
+    <style name="jht" parent="@style/jhs" />
+    <style name="jhw" parent="@style/jhv" />
+    <style name="jhz" parent="@style/jhy" />
+    <style name="ji3" parent="@style/ji2" />
+    <style name="ji5" parent="@style/ji4" />
+    <style name="ji8" parent="@style/ji7" />
+    <style name="jic" parent="@style/jib" />
+    <style name="jin" parent="@style/jim" />
+    <style name="jj3" parent="@style/jj2" />
+    <style name="jj7" parent="@style/jj6" />
+    <style name="jja" parent="@style/jj_" />
+    <style name="jje" parent="@style/jjd" />
+    <style name="jjh" parent="@style/jjg" />
+    <style name="jjm" parent="@style/jjl" />
+    <style name="jjp" parent="@style/jjo" />
+</resources>

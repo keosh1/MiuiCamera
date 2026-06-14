@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f9m">
+        <item quantity="other">1 timme sedan</item>
+        <item quantity="one">1 timme sedan</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d timmar sedan</item>
+        <item quantity="one">%d timma sedan</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">En halvtimme sedan</item>
+        <item quantity="one">En halvtimme sedan</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">Om %d timmar</item>
+        <item quantity="one">Om %d timma</item>
+    </plurals>
+    <plurals name="f9q">
+        <item quantity="other">Om en halvtimma</item>
+        <item quantity="one">Om en halvtimma</item>
+    </plurals>
+    <plurals name="f9r">
+        <item quantity="other">Omedelbart</item>
+        <item quantity="one">Omedelbart</item>
+    </plurals>
+    <plurals name="f9s">
+        <item quantity="other">Om %d minuter</item>
+        <item quantity="one">Om %d minut</item>
+    </plurals>
+    <plurals name="f9t">
+        <item quantity="other">Nyss</item>
+        <item quantity="one">Nyss</item>
+    </plurals>
+    <plurals name="f9u">
+        <item quantity="other">%d minuter sedan</item>
+        <item quantity="one">%d minut sedan</item>
+    </plurals>
+    <plurals name="f9v">
+        <item quantity="other">%d-sekundtimer för Nattläge</item>
+        <item quantity="one">%d-sekundtimer för Nattläge</item>
+    </plurals>
+    <plurals name="f9w">
+        <item quantity="other">Fokuserad. %d ansikten detekterade</item>
+        <item quantity="one">Fokuserad. %d ansikte detekterat</item>
+    </plurals>
+    <plurals name="f9x">
+        <item quantity="other">%d foton i en fotoserie</item>
+        <item quantity="one">%d foto i en fotoserie</item>
+    </plurals>
+    <plurals name="f9y">
+        <item quantity="other">Intervall: %d sekunder</item>
+        <item quantity="one">Intervall: %d sekund</item>
+    </plurals>
+    <plurals name="f9z">
+        <item quantity="other">Varaktighet: %d sekunder</item>
+        <item quantity="one">Varaktighet: %d sekund</item>
+    </plurals>
+    <plurals name="f_0">
+        <item quantity="other">Angav %d tecken.</item>
+        <item quantity="one">Angav %d tecken.</item>
+    </plurals>
+    <plurals name="f_1">
+        <item quantity="other">Ange upp till %d tecken.</item>
+        <item quantity="one">Ange upp till %d tecken.</item>
+    </plurals>
+    <plurals name="f_2">
+        <item quantity="other">Du kan ansluta upp till %d kameror till samma nätverk</item>
+        <item quantity="one">Du kan ansluta upp till %d kamera till samma nätverk</item>
+    </plurals>
+    <plurals name="f_3">
+        <item quantity="other">Du kan ansluta upp till %d skärmar till samma nätverk</item>
+        <item quantity="one">Du kan ansluta upp till %d monitor till samma nätverk</item>
+    </plurals>
+    <plurals name="f_4">
+        <item quantity="other">Du kan skapa upp till %d kloner åt gången.</item>
+        <item quantity="one">Du kan skapa upp till %d klon åt gången.</item>
+    </plurals>
+    <plurals name="f_5">
+        <item quantity="other">&lt;Data>Det går inte att ansluta till kameran.&lt;br>Denna app kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sekunder&lt;/b>&lt;/font>. Efter detta, vänta en minut eller två och försök igen.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Det går inte att ansluta till kameran.&lt;br>Denna app kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Efter detta, vänta en minut eller två och försök igen.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_6">
+        <item quantity="other">&lt;Data>Denna enhet är för varm nu.&lt;br>Appen kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sekunder&lt;/b>&lt;/font>. Aktuellt förlopp sparades automatiskt.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Denna enhet är för varm nu.&lt;br>Appen kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sekund&lt;/b>&lt;/font>. Aktuellt förlopp sparades automatiskt.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_7">
+        <item quantity="other">&lt;Data>Kameraversionen dom du använder är inte kompatibel med din enhetsmodell.&lt;br>Appen kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Avinstallera kamerauppdateringar och försök igen.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Kameraversionen dom du använder är inte kompatibel med din enhetsmodell.&lt;br>Appen kommer att stängas om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Avinstallera kamerauppdateringar och försök igen.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_8">
+        <item quantity="other">Spola framåt %d sekunder</item>
+        <item quantity="one">Spola framåt %d sekund</item>
+    </plurals>
+    <plurals name="f_9">
+        <item quantity="other">Spola tillbaka %d sekunder</item>
+        <item quantity="one">Spola tillbaka %d sekund</item>
+    </plurals>
+    <plurals name="f__">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="f_a">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+    </plurals>
+    <plurals name="f_b">
+        <item quantity="other">Aktiverade timer (%1$d sekunder). Foton kommer att överföras till den här enheten.</item>
+        <item quantity="one">Aktiverade timer (%1$d sekund). Foton kommer att överföras till den här enheten.</item>
+    </plurals>
+    <plurals name="f_c">
+        <item quantity="other">En halvtimme sedan</item>
+        <item quantity="one">En halvtimme sedan</item>
+    </plurals>
+    <plurals name="f_d">
+        <item quantity="other">Om 1 timme</item>
+        <item quantity="one">Om 1 timme</item>
+    </plurals>
+    <plurals name="f_e">
+        <item quantity="other">Om en halvtimma</item>
+        <item quantity="one">Om en halvtimma</item>
+    </plurals>
+    <plurals name="f_f">
+        <item quantity="other">Omedelbart</item>
+        <item quantity="one">Omedelbart</item>
+    </plurals>
+    <plurals name="f_g">
+        <item quantity="other">om %d minuter</item>
+        <item quantity="one">om 1 minut</item>
+    </plurals>
+    <plurals name="f_h">
+        <item quantity="other">Nyss</item>
+        <item quantity="one">Nyss</item>
+    </plurals>
+    <plurals name="f_i">
+        <item quantity="other">Ta bort %1$d utkast?</item>
+        <item quantity="one">Ta bort %1$d utkast?</item>
+    </plurals>
+    <plurals name="f_j">
+        <item quantity="other">Lägg till %d förinställningar</item>
+        <item quantity="one">Lägg till %d förinställning</item>
+    </plurals>
+    <plurals name="f_k">
+        <item quantity="other">%d objekt valda</item>
+        <item quantity="one">%d objekt valt</item>
+    </plurals>
+    <plurals name="f_m">
+        <item quantity="other">%d nya aviseringar</item>
+        <item quantity="one">%d ny avisering</item>
+    </plurals>
+    <plurals name="f_n">
+        <item quantity="other">%d minuter sedan</item>
+        <item quantity="one">1 minut sedan</item>
+    </plurals>
+    <plurals name="f_o">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>
+    <plurals name="f_p">
+        <item quantity="other">%1$s minuter</item>
+        <item quantity="one">%1$s minut</item>
+    </plurals>
+    <plurals name="f_q">
+        <item quantity="other">Spela in %d sekunder</item>
+        <item quantity="one">Spela in %d sekund</item>
+    </plurals>
+    <plurals name="f_r">
+        <item quantity="other">Du kan filma tidsfrysningsvideor med upp till %d motiv.</item>
+        <item quantity="one">Du kan bara filma tidsfrysningsvideor med %d motiv.</item>
+    </plurals>
+    <plurals name="f_s">
+        <item quantity="other">%1$s foton</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+</resources>

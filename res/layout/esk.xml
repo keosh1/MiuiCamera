@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/black" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center_horizontal" android:id="@id/lottie_view" android:layout_width="@dimen/byx" android:layout_height="@dimen/byx" />
+    <TextView android:textSize="@dimen/bz3" android:textColor="@color/white_alpha_40" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/selfie_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ge5" android:layout_marginStart="@dimen/bz5" android:layout_marginEnd="@dimen/bz5" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/arrow_root" android:paddingTop="@dimen/bz6" android:paddingBottom="@dimen/bz6" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bz4" android:paddingStart="@dimen/bz5" android:paddingEnd="@dimen/bz5">
+        <com.airbnb.lottie.LottieAnimationView android:id="@id/arrow" android:layout_width="@dimen/byt" android:layout_height="@dimen/byt" android:elevation="2.0dip" />
+        <com.android.camera.fragment.presentation.LinearGradientSlideView android:id="@id/slide_mask" android:layout_width="@dimen/byu" android:layout_height="fill_parent" android:layout_marginEnd="@dimen/byy" android:elevation="1.0dip" />
+        <com.android.camera.ui.ScrollTextview android:textSize="@dimen/bz3" android:textColor="@color/white" android:ellipsize="marquee" android:id="@id/slide_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/bz0" android:text="@string/ge4" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:layout_marginEnd="@dimen/byz" />
+    </LinearLayout>
+</FrameLayout>

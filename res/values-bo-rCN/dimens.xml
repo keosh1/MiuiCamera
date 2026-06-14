@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="coz">80.0dip</dimen>
+    <dimen name="cp0">94.0dip</dimen>
+    <dimen name="cp7">8.0sp</dimen>
+    <dimen name="cp_">8.0sp</dimen>
+    <dimen name="cx_">2.0dip</dimen>
+    <dimen name="czz">4.5dip</dimen>
+    <dimen name="d3q">105.0dip</dimen>
+</resources>

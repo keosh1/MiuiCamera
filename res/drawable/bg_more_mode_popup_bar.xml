@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/d7h" />
+    <solid android:color="@color/mode_select_popup_bar_color" />
+    <size android:height="@dimen/d7i" android:width="@dimen/d7m" />
+</shape>

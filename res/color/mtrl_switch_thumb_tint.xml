@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:state_checked="false" android:color="?ry" android:alpha="@dimen/cd3" />
+    <item android:state_enabled="false" android:state_checked="true" android:color="?sh" android:alpha="@dimen/cd3" />
+    <item android:state_checked="true" android:state_pressed="true" android:color="?s9" />
+    <item android:state_checked="true" android:color="?rt" />
+    <item android:state_pressed="true" android:color="?s4" />
+    <item android:color="?s7" />
+</selector>

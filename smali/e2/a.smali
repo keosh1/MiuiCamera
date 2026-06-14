@@ -1,0 +1,53 @@
+.class public final Le2/a;
+.super Lv1/b;
+.source "SourceFile"
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Lv1/b;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final J(Lu1/e;)V
+    .locals 1
+
+    iget-object v0, p0, Lv1/b;->b:Lc2/b;
+
+    if-nez v0, :cond_0
+
+    new-instance v0, Le2/c;
+
+    invoke-direct {v0}, Le2/c;-><init>()V
+
+    iput-object v0, p0, Lv1/b;->b:Lc2/b;
+
+    :cond_0
+    iget-object v0, p0, Lv1/b;->c:Lc2/a;
+
+    if-nez v0, :cond_1
+
+    new-instance v0, Le2/b;
+
+    invoke-direct {v0}, Le2/b;-><init>()V
+
+    iput-object v0, p0, Lv1/b;->c:Lc2/a;
+
+    :cond_1
+    invoke-super {p0, p1}, Lv1/b;->J(Lu1/e;)V
+
+    return-void
+.end method
+
+.method public final b()I
+    .locals 0
+
+    const/4 p0, 0x3
+
+    return p0
+.end method

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f_8">
+        <item quantity="other">ເລື່ອນໄປໜ້າ %d ວິນາທີ</item>
+        <item quantity="one">ເລື່ອນໄປໜ້າ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="f_9">
+        <item quantity="other">ຖອຍຫຼັງ %d ວິນາທີ</item>
+        <item quantity="one">ຖອຍຫຼັງ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="f_m">
+        <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
+        <item quantity="one">%d ການແຈ້ງເຕືອນໃໝ່</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/cxo" android:top="@dimen/cxp" android:right="@dimen/cxo" android:bottom="@dimen/cxp">
+        <shape android:shape="rectangle">
+            <stroke android:width="1.0px" android:color="@color/miuix_appcompat_divider_line_dark" />
+            <corners android:radius="@dimen/cxn" />
+            <size android:height="@dimen/cxq" android:width="@dimen/cxx" />
+        </shape>
+    </item>
+</layer-list>

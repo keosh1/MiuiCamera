@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f9m">
+        <item quantity="other">1 time siden</item>
+        <item quantity="one">1 time siden</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d time siden</item>
+        <item quantity="one">%d time siden</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">En halv time siden</item>
+        <item quantity="one">En halv time siden</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">Om %d timer</item>
+        <item quantity="one">Om %d time</item>
+    </plurals>
+    <plurals name="f9q">
+        <item quantity="other">Om en halv time</item>
+        <item quantity="one">Om en halv time</item>
+    </plurals>
+    <plurals name="f9r">
+        <item quantity="other">Omgående</item>
+        <item quantity="one">Omgående</item>
+    </plurals>
+    <plurals name="f9s">
+        <item quantity="other">Om %d min</item>
+        <item quantity="one">Om %d min</item>
+    </plurals>
+    <plurals name="f9t">
+        <item quantity="other">Lige nu</item>
+        <item quantity="one">Lige nu</item>
+    </plurals>
+    <plurals name="f9u">
+        <item quantity="other">%d min siden</item>
+        <item quantity="one">%d min siden</item>
+    </plurals>
+    <plurals name="f9v">
+        <item quantity="other">%d-sekunders-timer til nattilstand</item>
+        <item quantity="one">%d-sekund-timer til nattilstand</item>
+    </plurals>
+    <plurals name="f9w">
+        <item quantity="other">Fokuseret. %d ansigter detekteret</item>
+        <item quantity="one">Fokuseret. %d ansigt detekteret</item>
+    </plurals>
+    <plurals name="f9x">
+        <item quantity="other">%d fotos er burst-fotos</item>
+        <item quantity="one">%d foto er burst-foto</item>
+    </plurals>
+    <plurals name="f9y">
+        <item quantity="other">Interval: %d sekunder</item>
+        <item quantity="one">Interval: %d sekund</item>
+    </plurals>
+    <plurals name="f9z">
+        <item quantity="other">Varighed: %d sekunder</item>
+        <item quantity="one">Varighed: %d sekund</item>
+    </plurals>
+    <plurals name="f_0">
+        <item quantity="other">Indtastede %d tegn.</item>
+        <item quantity="one">Indtastede %d tegn.</item>
+    </plurals>
+    <plurals name="f_1">
+        <item quantity="other">Indtast op til %d tegn.</item>
+        <item quantity="one">Indtast op til %d tegn.</item>
+    </plurals>
+    <plurals name="f_2">
+        <item quantity="other">Du kan tilslutte op til %d kameraer til det samme netværk</item>
+        <item quantity="one">Du kan tilslutte op til %d kamera til det samme netværk</item>
+    </plurals>
+    <plurals name="f_3">
+        <item quantity="other">Du kan tilslutte op til %d skærme til det samme netværk</item>
+        <item quantity="one">Du kan tilslutte op til %d skærm til det samme netværk</item>
+    </plurals>
+    <plurals name="f_4">
+        <item quantity="other">Du kan oprette op til %d kloner ad gangen.</item>
+        <item quantity="one">Du kan oprette op til %d klon ad gangen.</item>
+    </plurals>
+    <plurals name="f_5">
+        <item quantity="other">&lt;Data>Kan ikke tilslutte til kameraet.&lt;br>Denne app lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Efter dette skal du vente et minut eller to og så prøve igen.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Kan ikke tilslutte til kameraet.&lt;br>Denne app lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Efter dette skal du vente et minut eller to og så prøve igen.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_6">
+        <item quantity="other">&lt;Data>Denne enhed er for varm nu.br>Denne app lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Nuværende fremskridt blev automatisk gemt.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Denne enhed er for varm nu.br>Denne app lukkes om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Nuværende fremskridt blev automatisk gemt.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_7">
+        <item quantity="other">&lt;Data>Den kameraversion, du bruger, er ikke kompatibel med din enhedsmodel.&lt;br>Appen lukker om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Afinstallér kameraopdateringer, og prøv igen.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Den kameraversion, du bruger, er ikke kompatibel med din enhedsmodel.&lt;br>Appen lukker om &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Afinstallér kameraopdateringer, og prøv igen.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_8">
+        <item quantity="other">Spol %d sekunder frem</item>
+        <item quantity="one">Spol %d sekund frem</item>
+    </plurals>
+    <plurals name="f_9">
+        <item quantity="other">Spol %d sekunder tilbage</item>
+        <item quantity="one">Spol %d sekund tilbage</item>
+    </plurals>
+    <plurals name="f__">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="f_a">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+    </plurals>
+    <plurals name="f_b">
+        <item quantity="other">Slået timer til (%1$d sek.). Billederne overføres til denne enhed.</item>
+        <item quantity="one">Slået timer til (%1$d sek.). Billederne overføres til denne enhed.</item>
+    </plurals>
+    <plurals name="f_c">
+        <item quantity="other">En halv time siden</item>
+        <item quantity="one">En halv time siden</item>
+    </plurals>
+    <plurals name="f_d">
+        <item quantity="other">Om 1 time</item>
+        <item quantity="one">Om 1 time</item>
+    </plurals>
+    <plurals name="f_e">
+        <item quantity="other">Om en halv time</item>
+        <item quantity="one">Om en halv time</item>
+    </plurals>
+    <plurals name="f_f">
+        <item quantity="other">Omgående</item>
+        <item quantity="one">Omgående</item>
+    </plurals>
+    <plurals name="f_g">
+        <item quantity="other">om %d minutter</item>
+        <item quantity="one">om 1 minut</item>
+    </plurals>
+    <plurals name="f_h">
+        <item quantity="other">Lige nu</item>
+        <item quantity="one">Lige nu</item>
+    </plurals>
+    <plurals name="f_i">
+        <item quantity="other">Slet %1$d kladder?</item>
+        <item quantity="one">Slet %1$d kladde?</item>
+    </plurals>
+    <plurals name="f_j">
+        <item quantity="other">Tilføj op til %d faste indstillinger</item>
+        <item quantity="one">Tilføj op til %d fast indstilling</item>
+    </plurals>
+    <plurals name="f_k">
+        <item quantity="other">%d elementer valgt</item>
+        <item quantity="one">%d element valgt</item>
+    </plurals>
+    <plurals name="f_m">
+        <item quantity="other">%d nye notifikationer</item>
+        <item quantity="one">%d ny notifikation</item>
+    </plurals>
+    <plurals name="f_n">
+        <item quantity="other">%d minutter siden</item>
+        <item quantity="one">1 minut siden</item>
+    </plurals>
+    <plurals name="f_o">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>
+    <plurals name="f_p">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+    </plurals>
+    <plurals name="f_q">
+        <item quantity="other">Optag %d sekunder</item>
+        <item quantity="one">Optag %d sekund</item>
+    </plurals>
+    <plurals name="f_r">
+        <item quantity="other">Du kan optage time freeze-videoer med op til %d emner.</item>
+        <item quantity="one">Du kan optage time freeze-videoer med kun %d emne.</item>
+    </plurals>
+    <plurals name="f_s">
+        <item quantity="other">%1$s billeder</item>
+        <item quantity="one">%1$s billede</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@android:id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/cs6" android:minHeight="@dimen/cs5" android:layout_marginEnd="@dimen/cy4" />
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <miuix.androidbasewidget.widget.CheckedTextView android:textAppearance="@style/iml" android:textSize="@dimen/cy2" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <miuix.androidbasewidget.widget.CheckedTextView android:textAppearance="@style/imq" android:textSize="@dimen/cy1" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/cy7" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingLeft="@dimen/cp6" android:paddingTop="@dimen/cp7" android:paddingRight="@dimen/cp6" android:paddingBottom="@dimen/cp7"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/miuix_appcompat_dialog_default_btn_bg_dark_smooth" />
+    <item android:drawable="@drawable/miuix_appcompat_default_btn_fg_dark" />
+</layer-list>

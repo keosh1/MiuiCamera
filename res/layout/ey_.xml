@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center_horizontal" android:background="@drawable/bg_custom_shutter_view" android:layout_width="@dimen/bj5" android:layout_height="@dimen/bj6" android:layout_marginTop="@dimen/bj1">
+        <ImageView android:layout_gravity="start" android:id="@id/style_review_gallery" android:layout_width="@dimen/bji" android:layout_height="@dimen/bji" android:layout_marginTop="@dimen/bjj" android:src="@drawable/custom_shutter_gallery" android:contentDescription="@null" android:layout_marginStart="@dimen/bjh" />
+        <ImageView android:id="@id/style_review_shutter_button" android:layout_width="@dimen/bjk" android:layout_height="@dimen/bjk" android:layout_marginTop="@dimen/bjg" android:src="@drawable/custom_shutter_default" android:contentDescription="@null" android:layout_marginStart="@dimen/bjf" />
+        <ImageView android:id="@id/style_review_camera_switch" android:layout_width="@dimen/bji" android:layout_height="@dimen/bji" android:layout_marginTop="@dimen/bjj" android:src="@drawable/custom_shutter_switch" android:contentDescription="@null" android:layout_marginStart="@dimen/bjl" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/bjo" android:textColor="@color/ic_custom_shutter_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bjn" android:text="@string/hll" android:layout_marginStart="@dimen/bjm" />
+    <FrameLayout android:layout_gravity="center_horizontal" android:background="@drawable/bg_custom_shutter_list" android:layout_width="@dimen/bj5" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bj4">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/shutter_button_style_list" android:layout_width="@dimen/bj5" android:layout_height="wrap_content" android:layout_marginStart="@dimen/bj3" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f9m">
+        <item quantity="other">1 jam yang lalu</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d jam yang lalu</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%d jam lagi</item>
+    </plurals>
+    <plurals name="f9q">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="f9r">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="f9s">
+        <item quantity="other">%d minit lagi</item>
+    </plurals>
+    <plurals name="f9t">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="f9u">
+        <item quantity="other">%d min yang lalu</item>
+    </plurals>
+    <plurals name="f9v">
+        <item quantity="other">Pemasa %d-saat untuk Mod Malam</item>
+    </plurals>
+    <plurals name="f9w">
+        <item quantity="other">Difokus. %d wajah dikesan</item>
+    </plurals>
+    <plurals name="f9x">
+        <item quantity="other">%d gambar dalam tangkapan berganda</item>
+    </plurals>
+    <plurals name="f9y">
+        <item quantity="other">Selang: %d saat</item>
+    </plurals>
+    <plurals name="f9z">
+        <item quantity="other">Durasi: %d saat</item>
+    </plurals>
+    <plurals name="f_0">
+        <item quantity="other">Memasukkan %d karakter.</item>
+    </plurals>
+    <plurals name="f_1">
+        <item quantity="other">Masukkan sehingga %d karakter.</item>
+    </plurals>
+    <plurals name="f_2">
+        <item quantity="other">Anda boleh menyambung sehingga %d kamera ke rangkaian yang sama</item>
+    </plurals>
+    <plurals name="f_3">
+        <item quantity="other">Anda boleh menyambung sehingga %d monitor ke rangkaian yang sama</item>
+    </plurals>
+    <plurals name="f_4">
+        <item quantity="other">Anda boleh mencipta sehingga %d klon dalam satu masa.</item>
+    </plurals>
+    <plurals name="f_5">
+        <item quantity="other">&lt;Data>Tidak dapat menyambung ke kamera.&lt;br>Apl ini akan ditutup dalam &lt;font color=#FFCE16>&lt;b>%1$d saat &lt;/b>&lt;/font>. Selepas ini, tunggu satu atau dua minit dan cuba lagi.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_6">
+        <item quantity="other">&lt;Data>Peranti ini terlalu panas sekarang.&lt;br>Apl ini akan ditutup dalam &lt;font color=#FFCE16>&lt;b>%1$d saat&lt;/b>&lt;/font>. Perkembangan semasa disimpan secara automatik.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_7">
+        <item quantity="other">&lt;Data>Versi Kamera yang anda gunakan tidak serasi dengan model peranti anda.&lt;br>Apl akan ditutup dalam &lt;font color=#FFCE16>&lt;b>%1$d saat&lt;/b>&lt;/font>. Nyahpasang kemas kini Kamera dan cuba lagi.&lt;/Data></item>
+    </plurals>
+    <plurals name="f__">
+        <item quantity="other">%1$d min</item>
+    </plurals>
+    <plurals name="f_a">
+        <item quantity="other">%1$d saat</item>
+    </plurals>
+    <plurals name="f_b">
+        <item quantity="other">Pemasa dihidupkan (%1$d saat). Gambar akan dipindahkan ke peranti ini.</item>
+    </plurals>
+    <plurals name="f_c">
+        <item quantity="other">Setengah jam yang lalu</item>
+    </plurals>
+    <plurals name="f_d">
+        <item quantity="other">Dalam 1 jam</item>
+    </plurals>
+    <plurals name="f_e">
+        <item quantity="other">Dalam setengah jam</item>
+    </plurals>
+    <plurals name="f_f">
+        <item quantity="other">Secepat mungkin</item>
+    </plurals>
+    <plurals name="f_g">
+        <item quantity="other">dalam masa %d minit</item>
+    </plurals>
+    <plurals name="f_h">
+        <item quantity="other">Tadi</item>
+    </plurals>
+    <plurals name="f_i">
+        <item quantity="other">Padam %1$d draf?</item>
+    </plurals>
+    <plurals name="f_j">
+        <item quantity="other">Tambahkan sehingga %d pratetap</item>
+    </plurals>
+    <plurals name="f_k">
+        <item quantity="other">%d kandungan dipilih</item>
+    </plurals>
+    <plurals name="f_n">
+        <item quantity="other">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="f_o">
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="f_p">
+        <item quantity="other">%1$s min</item>
+    </plurals>
+    <plurals name="f_q">
+        <item quantity="other">Rakam %d saat</item>
+    </plurals>
+    <plurals name="f_r">
+        <item quantity="other">Anda boleh merakam video beku masa sehingga %d subjek.</item>
+    </plurals>
+    <plurals name="f_s">
+        <item quantity="other">%1$s gambar</item>
+    </plurals>
+</resources>

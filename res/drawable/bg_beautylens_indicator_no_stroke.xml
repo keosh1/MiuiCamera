@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/chs" android:insetRight="@dimen/chs" android:insetTop="@dimen/chu" android:insetBottom="@dimen/chu"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <layer-list
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <item>
+            <shape android:shape="rectangle">
+                <solid android:color="@color/zoom_button_background_color" />
+                <corners android:topLeftRadius="@dimen/b6l" android:topRightRadius="@dimen/b6l" android:bottomLeftRadius="@dimen/b6l" android:bottomRightRadius="@dimen/b6l" />
+            </shape>
+        </item>
+    </layer-list>
+</inset>

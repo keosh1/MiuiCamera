@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f9m">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d گھنٹہ پہلے</item>
+        <item quantity="one">%d گھنٹہ پہلے</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%d گھنٹہ میں</item>
+        <item quantity="one">%d گھنٹہ میں</item>
+    </plurals>
+    <plurals name="f9q">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="f9r">
+        <item quantity="other">فوراً</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="f9s">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">%d منٹ میں</item>
+    </plurals>
+    <plurals name="f9t">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="f9u">
+        <item quantity="other">%d منٹ پہلے</item>
+        <item quantity="one">%d منٹ پہلے</item>
+    </plurals>
+    <plurals name="f9v">
+        <item quantity="other">رات موڈ کے لیے %d-سیکنڈ ٹائمر</item>
+        <item quantity="one">رات موڈ کے لیے %d-سیکنڈ ٹائمر</item>
+    </plurals>
+    <plurals name="f9w">
+        <item quantity="other">فوکس کیا گیا۔ %d چہرے ملے</item>
+        <item quantity="one">فوکس کیا گیا۔ %d چہرہ ملا</item>
+    </plurals>
+    <plurals name="f9x">
+        <item quantity="other">برسٹ شاٹ میں %d فوٹوز</item>
+        <item quantity="one">برسٹ شاٹ میں %d فوٹو</item>
+    </plurals>
+    <plurals name="f9y">
+        <item quantity="other">وقفہ: %d سیکنڈز</item>
+        <item quantity="one">وقفہ: %d سیکنڈ</item>
+    </plurals>
+    <plurals name="f9z">
+        <item quantity="other">دورانیہ: %d سیکنڈ</item>
+        <item quantity="one">دورانیہ: %d سیکنڈ</item>
+    </plurals>
+    <plurals name="f_0">
+        <item quantity="other">Entered %d characters.</item>
+        <item quantity="one">Entered %d character.</item>
+    </plurals>
+    <plurals name="f_1">
+        <item quantity="other">%d حروف تک درج کریں.</item>
+        <item quantity="one">%d حرف تک درج کریں.</item>
+    </plurals>
+    <plurals name="f_2">
+        <item quantity="other">آپ ایک ہی نیٹ ورک سے %d کیمرے تک مربوط کر سکتے ہیں</item>
+        <item quantity="one">آپ ایک ہی نیٹ ورک سے %d کیمرہ تک مربوط کر سکتے ہیں</item>
+    </plurals>
+    <plurals name="f_3">
+        <item quantity="other">آپ ایک ہی نیٹ ورک سے %d مانیٹرز تک مربوط کر سکتے ہیں</item>
+        <item quantity="one">آپ ایک ہی نیٹ ورک سے %d مانیٹر تک مربوط کر سکتے ہیں</item>
+    </plurals>
+    <plurals name="f_4">
+        <item quantity="other">آپ ایک بار میں %d کلون تک بنا سکتے ہیں۔</item>
+        <item quantity="one">آپ ایک بار میں %d کلون تک بنا سکتے ہیں۔</item>
+    </plurals>
+    <plurals name="f_5">
+        <item quantity="other">&lt;Data>کیمرہ سے مربوط نہیں کر سکتے۔&lt;br>یہ ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ اس کے بعد, ایک یا دو منٹ انتظار کریں اور دوبارہ کوشش کریں۔&lt;/Data></item>
+        <item quantity="one">&lt;Data>کیمرہ سے مربوط نہیں کر سکتے۔&lt;br>یہ ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ اس کے بعد, ایک یا دو منٹ انتظار کریں اور دوبارہ کوشش کریں۔&lt;/Data></item>
+    </plurals>
+    <plurals name="f_6">
+        <item quantity="other">&lt;Data>یہ ڈیوائس ابھی بہت گرم ہے۔&lt;br>ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ موجودہ پیش رفت خودکار طور پر محفوظ ہو گئی تھی۔&lt;/Data></item>
+        <item quantity="one">&lt;Data>یہ ڈیوائس ابھی بہت گرم ہے۔&lt;br>ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ موجودہ پیش رفت خودکار طور پر محفوظ ہو گئی تھی۔&lt;/Data></item>
+    </plurals>
+    <plurals name="f_7">
+        <item quantity="other">&lt;Data>جو کیمرہ ورژن آپ استعمال کر رہے ہیں وہ آپ کے ڈیوائس کے ساتھ موافق نہیں ہے۔&lt;br>ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ کیمرہ اپ ڈیٹس ان انسٹال کریں اور دوبارہ کوشش کریں۔&lt;/Data></item>
+        <item quantity="one">&lt;Data>جو کیمرہ ورژن آپ استعمال کر رہے ہیں وہ آپ کے ڈیوائس کے ساتھ موافق نہیں ہے۔&lt;br>ایپ &lt;font color=#FFCE16>&lt;b>%1$d سیکنڈ&lt;/b>&lt;/font> میں بند ہو جائے گی۔ کیمرہ اپ ڈیٹس ان انسٹال کریں اور دوبارہ کوشش کریں۔&lt;/Data></item>
+    </plurals>
+    <plurals name="f__">
+        <item quantity="other">%1$d منٹ</item>
+        <item quantity="one">%1$d منٹ</item>
+    </plurals>
+    <plurals name="f_a">
+        <item quantity="other">‎%1$d سیکنڈ</item>
+        <item quantity="one">‎%1$d سیکنڈ</item>
+    </plurals>
+    <plurals name="f_b">
+        <item quantity="other">ٹائمر آن کیا گیا (%1$d سیکنڈ)۔ فوٹوز اس ڈیوائس پر منتقل کی جائیں گی۔</item>
+        <item quantity="one">ٹائمر آن کیا گیا (%1$d سیکنڈ)۔ فوٹوز اس ڈیوائس پر منتقل کی جائیں گی۔</item>
+    </plurals>
+    <plurals name="f_c">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="f_d">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="f_e">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="f_f">
+        <item quantity="other">فوری طور پر</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="f_g">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="f_h">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="f_i">
+        <item quantity="other">%1$d ڈرافٹس حذف کریں؟</item>
+        <item quantity="one">%1$d ڈرافٹ حذف کریں؟</item>
+    </plurals>
+    <plurals name="f_j">
+        <item quantity="other">%d پری سیٹ تک شامل کریں</item>
+        <item quantity="one">%d پری سیٹ تک شامل کریں</item>
+    </plurals>
+    <plurals name="f_k">
+        <item quantity="other">%d آئٹمز منتخب کیے گئے</item>
+        <item quantity="one">%d آئٹم منتخب کیا گیا</item>
+    </plurals>
+    <plurals name="f_n">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ پہلے</item>
+    </plurals>
+    <plurals name="f_o">
+        <item quantity="other">%dسیکنڈ</item>
+        <item quantity="one">%dسیکنڈ</item>
+    </plurals>
+    <plurals name="f_p">
+        <item quantity="other">%1$s منٹ</item>
+        <item quantity="one">%1$s منٹ</item>
+    </plurals>
+    <plurals name="f_q">
+        <item quantity="other">%d سیکنڈز ریکارڈ کریں</item>
+        <item quantity="one">%d سیکنڈ ریکارڈ کریں</item>
+    </plurals>
+    <plurals name="f_r">
+        <item quantity="other">آپ وقت منجمد ویڈیوز کو صرف %d موضوعات کے ساتھ شوٹ کر سکتے ہیں۔</item>
+        <item quantity="one">آپ وقت منجمد ویڈیوز کو صرف %d موضوع کے ساتھ شوٹ کر سکتے ہیں۔</item>
+    </plurals>
+    <plurals name="f_s">
+        <item quantity="other">%1$s فوٹوز</item>
+        <item quantity="one">%1$s فوٹو</item>
+    </plurals>
+</resources>

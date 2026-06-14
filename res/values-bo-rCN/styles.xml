@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="j82" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">@style/ind</item>
+        <item name="android:textSize">@dimen/cpe</item>
+        <item name="android:textColor">?ask</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">?m5</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:elegantTextHeight">true</item>
+        <item name="android:fallbackLineSpacing">false</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

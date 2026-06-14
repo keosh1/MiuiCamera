@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="ay6">true</bool>
+    <bool name="ay7">true</bool>
+    <bool name="ay8">true</bool>
+    <bool name="ay9">false</bool>
+    <bool name="ay_">true</bool>
+    <bool name="aya">true</bool>
+    <bool name="ayb">false</bool>
+    <bool name="ayc">true</bool>
+    <bool name="ayd">true</bool>
+    <bool name="aye">false</bool>
+    <bool name="ayf">false</bool>
+    <bool name="ayg">false</bool>
+    <bool name="ayh">false</bool>
+    <bool name="ayi">true</bool>
+    <bool name="ayj">true</bool>
+    <bool name="ayk">false</bool>
+    <bool name="ayl">false</bool>
+    <bool name="aym">false</bool>
+    <bool name="ayn">false</bool>
+</resources>

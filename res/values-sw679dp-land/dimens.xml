@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cz3">128.0dip</dimen>
+    <dimen name="cz4">72.0dip</dimen>
+    <dimen name="cz5">44.0dip</dimen>
+</resources>

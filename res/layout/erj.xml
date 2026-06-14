@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/flur_view" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:alpha="0.8" />
+    <FrameLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/rl_connect_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/d9b" android:paddingEnd="@dimen/d9a">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/d9c" android:layout_marginBottom="130.0dip">
+            <TextView android:textSize="@dimen/d95" android:textColor="@android:color/white" android:id="@id/tv_connect_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/g49" android:fallbackLineSpacing="true" />
+            <TextView android:textSize="@dimen/d94" android:textColor="#99ffffff" android:id="@id/tv_device_ip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <ScrollView android:scrollbarThumbVertical="@drawable/video_prompter_scroll_bar_style" android:paddingTop="@dimen/d93" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <TextView android:textSize="@dimen/d94" android:textColor="@color/white_alpha_60" android:id="@id/tv_connect_sub_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fallbackLineSpacing="true" />
+            </ScrollView>
+            <include layout="@layout/erl" />
+            <include layout="@layout/erk" />
+            <miuix.androidbasewidget.widget.ProgressBar android:layout_gravity="center" android:id="@id/loading" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/d92" android:layout_marginBottom="@dimen/d92" android:indeterminateTint="@color/miuix_appcompat_white" style="?android:progressBarStyleLarge" />
+        </LinearLayout>
+        <Button android:textSize="@dimen/bdv" android:layout_gravity="bottom" android:id="@id/btn_connect_start" android:background="@drawable/shape_btn_connect_start_un_press" android:layout_marginBottom="@dimen/d8y" android:text="@string/g3z" android:alpha="1.0" android:layout_marginHorizontal="0.0dip" style="@style/ijh" />
+    </FrameLayout>
+</FrameLayout>

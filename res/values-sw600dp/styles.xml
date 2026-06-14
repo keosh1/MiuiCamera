@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="j9f" parent="@style/iig">
+        <item name="aqa">center</item>
+        <item name="aqn">fixed</item>
+    </style>
+</resources>

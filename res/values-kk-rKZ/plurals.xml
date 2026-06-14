@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f9m">
+        <item quantity="other">1 сағат бұрын</item>
+        <item quantity="one">1 сағат бұрын</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d сағат бұрын</item>
+        <item quantity="one">%d сағат бұрын</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">Жарты сағат бұрын</item>
+        <item quantity="one">Жарты сағат бұрын</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">%d сағатта</item>
+        <item quantity="one">%d сағатта</item>
+    </plurals>
+    <plurals name="f9q">
+        <item quantity="other">Жарты сағатта</item>
+        <item quantity="one">Жарты сағатта</item>
+    </plurals>
+    <plurals name="f9r">
+        <item quantity="other">Дереу</item>
+        <item quantity="one">Дереу</item>
+    </plurals>
+    <plurals name="f9s">
+        <item quantity="other">%d минутта</item>
+        <item quantity="one">%d минутта</item>
+    </plurals>
+    <plurals name="f9t">
+        <item quantity="other">Енді ғана</item>
+        <item quantity="one">Енді ғана</item>
+    </plurals>
+    <plurals name="f9u">
+        <item quantity="other">%d минут бұрын</item>
+        <item quantity="one">%d минут бұрын</item>
+    </plurals>
+    <plurals name="f9v">
+        <item quantity="other">Түнгі режим үшін %d-секундтық таймер</item>
+        <item quantity="one">Түнгі режим үшін %d-секундтық таймер</item>
+    </plurals>
+    <plurals name="f9w">
+        <item quantity="other">Фокусталды. %d бет табылды</item>
+        <item quantity="one">Фокусталды. %d бет табылды</item>
+    </plurals>
+    <plurals name="f9x">
+        <item quantity="other">Сериалық түсірмеде %d сурет</item>
+        <item quantity="one">Сериалық түсірмеде %d сурет</item>
+    </plurals>
+    <plurals name="f9y">
+        <item quantity="other">Интервал: %d секунд</item>
+        <item quantity="one">Интервал: %d секунд</item>
+    </plurals>
+    <plurals name="f9z">
+        <item quantity="other">Ұзақтық: %d секунд</item>
+        <item quantity="one">Ұзақтық: %d секунд</item>
+    </plurals>
+    <plurals name="f_0">
+        <item quantity="other">%d таңба енгіздіңіз.</item>
+        <item quantity="one">%d таңба енгіздіңіз.</item>
+    </plurals>
+    <plurals name="f_1">
+        <item quantity="other">%d таңбаға дейін енгізіңіз.</item>
+        <item quantity="one">%d таңбаға дейін енгізіңіз.</item>
+    </plurals>
+    <plurals name="f_2">
+        <item quantity="other">Бір желіге %d камераға дейін қосуға болады</item>
+        <item quantity="one">Бір желіге %d камераға дейін қосуға болады</item>
+    </plurals>
+    <plurals name="f_3">
+        <item quantity="other">Бір желіге %d мониторға дейін қосуға болады</item>
+        <item quantity="one">Бір желіге %d мониторға дейін қосуға болады</item>
+    </plurals>
+    <plurals name="f_4">
+        <item quantity="other">Сіз бір уақытта %d клон жасай аласыз.</item>
+        <item quantity="one">Сіз бір уақытта %d клон жасай аласыз.</item>
+    </plurals>
+    <plurals name="f_5">
+        <item quantity="other">&lt;Data>Камераға қосылу мүмкін емес.&lt;br>Бұл қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> өшіріледі. Содан соң, Бір-екі минут күтіп, әрекетті қайталаңыз.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Камераға қосылу мүмкін емес.&lt;br>Бұл қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> өшіріледі. Содан соң, бір-екі минут күтіп, әрекетті қайталаңыз.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_6">
+        <item quantity="other">&lt;Data>Бұл құрылғы там ыстық.&lt;br>Қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> өшіріледі. Ағымдағы прогресс автоматты түрде сақталды.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Бұл құрылғы там ыстық.&lt;br>Қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> өшіріледі. Ағымдағы прогресс автоматты түрде сақталды.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_7">
+        <item quantity="other">&lt;Data>Сіз пайдаланып жатқан камера нұсқасы құрылғы үлгісімен үйлесімді емес.&lt;br>Қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> жабылады. Камера жаңартуларын жойып, әрекетті қайталаңыз.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Сіз пайдаланып жатқан камера нұсқасы құрылғы үлгісімен үйлесімді емес.&lt;br>Қолданба &lt;font color=#FFCE16>&lt;b>%1$d секундта&lt;/b>&lt;/font> жабылады. Камера жаңартуларын жойып, әрекетті қайталаңыз.&lt;/Data></item>
+    </plurals>
+    <plurals name="f__">
+        <item quantity="other">%1$d мин</item>
+        <item quantity="one">%1$d мин</item>
+    </plurals>
+    <plurals name="f_a">
+        <item quantity="other">%1$d сек</item>
+        <item quantity="one">%1$d сек</item>
+    </plurals>
+    <plurals name="f_b">
+        <item quantity="other">Таймер қосылды (%1$d сек). Суреттер осы құрылғыға тасымалданады.</item>
+        <item quantity="one">Таймер қосылды (%1$d сек). Суреттер осы құрылғыға тасымалданады.</item>
+    </plurals>
+    <plurals name="f_c">
+        <item quantity="other">Жарты сағат бұрын</item>
+        <item quantity="one">Жарты сағат бұрын</item>
+    </plurals>
+    <plurals name="f_d">
+        <item quantity="other">1 сағатта</item>
+        <item quantity="one">1 сағатта</item>
+    </plurals>
+    <plurals name="f_e">
+        <item quantity="other">Жарты сағатта</item>
+        <item quantity="one">Жарты сағатта</item>
+    </plurals>
+    <plurals name="f_f">
+        <item quantity="other">Дереу</item>
+        <item quantity="one">Дереу</item>
+    </plurals>
+    <plurals name="f_g">
+        <item quantity="other">%d минутта</item>
+        <item quantity="one">1 минутта</item>
+    </plurals>
+    <plurals name="f_h">
+        <item quantity="other">Енді ғана</item>
+        <item quantity="one">Енді ғана</item>
+    </plurals>
+    <plurals name="f_i">
+        <item quantity="other">%1$d шимай жойылсын ба?</item>
+        <item quantity="one">%1$d шимай жойылсын ба?</item>
+    </plurals>
+    <plurals name="f_j">
+        <item quantity="other">%d стильге дейін орнатыңыз</item>
+        <item quantity="one">%d стильге дейін орнатыңыз</item>
+    </plurals>
+    <plurals name="f_k">
+        <item quantity="other">%d элемент таңдалды</item>
+        <item quantity="one">%d элемент таңдалды</item>
+    </plurals>
+    <plurals name="f_n">
+        <item quantity="other">%d минут бұрын</item>
+        <item quantity="one">1 минут бұрын</item>
+    </plurals>
+    <plurals name="f_o">
+        <item quantity="other">%dс</item>
+        <item quantity="one">%dс</item>
+    </plurals>
+    <plurals name="f_p">
+        <item quantity="other">%1$s мин</item>
+        <item quantity="one">%1$s мин</item>
+    </plurals>
+    <plurals name="f_q">
+        <item quantity="other">%d секунд жазу</item>
+        <item quantity="one">%d секунд жазу</item>
+    </plurals>
+    <plurals name="f_r">
+        <item quantity="other">Уақытты тоқтататын видеоларды %d адаммен түсіруге болады.</item>
+        <item quantity="one">Уақытты тоқтататын видеоларды тек %d адаммен түсіруге болады.</item>
+    </plurals>
+    <plurals name="f_s">
+        <item quantity="other">%1$s сурет</item>
+        <item quantity="one">%1$s сурет</item>
+    </plurals>
+</resources>

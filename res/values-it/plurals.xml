@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f9m">
+        <item quantity="other">1 ora fa</item>
+        <item quantity="one">1 ora fa</item>
+    </plurals>
+    <plurals name="f9n">
+        <item quantity="other">%d ora fa</item>
+        <item quantity="one">%d ora fa</item>
+    </plurals>
+    <plurals name="f9o">
+        <item quantity="other">"Mezz'ora fa"</item>
+        <item quantity="one">"Mezz'ora fa"</item>
+    </plurals>
+    <plurals name="f9p">
+        <item quantity="other">Fra %d ora</item>
+        <item quantity="one">Fra %d ora</item>
+    </plurals>
+    <plurals name="f9q">
+        <item quantity="other">"Tra mezz'ora"</item>
+        <item quantity="one">"Tra mezz'ora"</item>
+    </plurals>
+    <plurals name="f9r">
+        <item quantity="other">Adesso</item>
+        <item quantity="one">Adesso</item>
+    </plurals>
+    <plurals name="f9s">
+        <item quantity="other">Fra %d min</item>
+        <item quantity="one">Fra %d min</item>
+    </plurals>
+    <plurals name="f9t">
+        <item quantity="other">Poco fa</item>
+        <item quantity="one">Poco fa</item>
+    </plurals>
+    <plurals name="f9u">
+        <item quantity="other">%d min fa</item>
+        <item quantity="one">%d min fa</item>
+    </plurals>
+    <plurals name="f9v">
+        <item quantity="other">Timer di %d secondi per la Modalità notte</item>
+        <item quantity="one">Timer di %d secondo per la Modalità notte</item>
+    </plurals>
+    <plurals name="f9w">
+        <item quantity="other">Messo a fuoco. %d volti rilevati</item>
+        <item quantity="one">Messo a fuoco. %d volto rilevato</item>
+    </plurals>
+    <plurals name="f9x">
+        <item quantity="other">%d foto in uno scatto a raffica</item>
+        <item quantity="one">%d foto in uno scatto a raffica</item>
+    </plurals>
+    <plurals name="f9y">
+        <item quantity="other">Intervallo: %d secondi</item>
+        <item quantity="one">Intervallo: %d secondo</item>
+    </plurals>
+    <plurals name="f9z">
+        <item quantity="other">Durata: %d secondi</item>
+        <item quantity="one">Durata: %d secondo</item>
+    </plurals>
+    <plurals name="f_0">
+        <item quantity="other">Inserisci %d caratteri.</item>
+        <item quantity="one">Inserisci %d carattere.</item>
+    </plurals>
+    <plurals name="f_1">
+        <item quantity="other">Inserisci fino a %d caratteri.</item>
+        <item quantity="one">Inserisci fino a %d carattere.</item>
+    </plurals>
+    <plurals name="f_2">
+        <item quantity="other">Puoi connettere fino a %d fotocamere alla stessa rete</item>
+        <item quantity="one">Puoi connettere fino a %d fotocamera alla stessa rete</item>
+    </plurals>
+    <plurals name="f_3">
+        <item quantity="other">Puoi connettere fino a %d monitor alla stessa rete</item>
+        <item quantity="one">Puoi connettere fino a %d monitor alla stessa rete</item>
+    </plurals>
+    <plurals name="f_4">
+        <item quantity="other">Puoi creare fino a %d cloni alla volta.</item>
+        <item quantity="one">Puoi creare fino a %d clone alla volta.</item>
+    </plurals>
+    <plurals name="f_5">
+        <item quantity="other">&lt;Data>Impossibile connettersi alla fotocamera.&lt;br>Questa app verrà chiusa tra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dopodiché, aspetta un minuto o due e riprova.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Impossibile connettersi alla fotocamera.&lt;br>Questa app verrà chiusa tra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Dopodiché, aspetta un minuto o due e riprova.&lt;/Data></item>
+    </plurals>
+    <plurals name="f_6">
+        <item quantity="other">"&lt;Data>Questo dispositivo è troppo caldo.&lt;br>L'app verrà chiusa tra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. I progressi sono stati salvati automaticamente.&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>Questo dispositivo è troppo caldo.&lt;br>L'app verrà chiusa tra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. I progressi sono stati salvati automaticamente.&lt;/Data>"</item>
+    </plurals>
+    <plurals name="f_7">
+        <item quantity="other">"&lt;Data>La versione della Fotocamera che stai utilizzando non è compatibile con il modello del tuo dispositivo.&lt;br>L'app si chiuderà fra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Disinstalla gli aggiornamenti della Fotocamera e riprova.&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>La versione della Fotocamera che stai utilizzando non è compatibile con il modello del tuo dispositivo.&lt;br>L'app si chiuderà fra &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Disinstalla gli aggiornamenti della Fotocamera e riprova.&lt;/Data>"</item>
+    </plurals>
+    <plurals name="f_8">
+        <item quantity="other">Avanti di %d secondi</item>
+        <item quantity="one">Avanti di %d secondo</item>
+    </plurals>
+    <plurals name="f_9">
+        <item quantity="other">Indietro di %d secondi</item>
+        <item quantity="one">Indietro di %d secondo</item>
+    </plurals>
+    <plurals name="f__">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="f_a">
+        <item quantity="other">%1$d sec</item>
+        <item quantity="one">%1$d sec</item>
+    </plurals>
+    <plurals name="f_b">
+        <item quantity="other">Attivazione del timer (%1$d sec). Le foto saranno trasferite su questo dispositivo.</item>
+        <item quantity="one">Attivazione del timer (%1$d sec). Le foto saranno trasferite su questo dispositivo.</item>
+    </plurals>
+    <plurals name="f_c">
+        <item quantity="other">"Mezz'ora fa"</item>
+        <item quantity="one">"Mezz'ora fa"</item>
+    </plurals>
+    <plurals name="f_d">
+        <item quantity="other">Tra 1 ora</item>
+        <item quantity="one">Tra 1 ora</item>
+    </plurals>
+    <plurals name="f_e">
+        <item quantity="other">"Tra mezz'ora"</item>
+        <item quantity="one">"Tra mezz'ora"</item>
+    </plurals>
+    <plurals name="f_f">
+        <item quantity="other">Adesso</item>
+        <item quantity="one">Adesso</item>
+    </plurals>
+    <plurals name="f_g">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="f_h">
+        <item quantity="other">Poco fa</item>
+        <item quantity="one">Poco fa</item>
+    </plurals>
+    <plurals name="f_i">
+        <item quantity="other">Eliminare %1$d bozze?</item>
+        <item quantity="one">Eliminare %1$d bozza?</item>
+    </plurals>
+    <plurals name="f_j">
+        <item quantity="other">Aggiungi fino a %d preimpostazioni</item>
+        <item quantity="one">Aggiungi fino a %d preimpostazione</item>
+    </plurals>
+    <plurals name="f_k">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="f_m">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="f_n">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="f_o">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>
+    <plurals name="f_p">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="f_q">
+        <item quantity="other">Registra %d secondi</item>
+        <item quantity="one">Registra %d secondo</item>
+    </plurals>
+    <plurals name="f_r">
+        <item quantity="other">Puoi riprendere video time freeze con fino a%d soggetti.</item>
+        <item quantity="one">Puoi riprendere video time freeze con solo %d soggetto.</item>
+    </plurals>
+    <plurals name="f_s">
+        <item quantity="other">%1$s foto</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+</resources>

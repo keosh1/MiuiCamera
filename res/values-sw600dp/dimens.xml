@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ayo">24.0dip</dimen>
+    <dimen name="ayp">80.0dip</dimen>
+    <dimen name="ayq">64.0dip</dimen>
+    <dimen name="ayr">8.0dip</dimen>
+    <dimen name="ays">8.0dip</dimen>
+    <dimen name="aza">580.0dip</dimen>
+    <dimen name="b0s">16.0dip</dimen>
+    <dimen name="b0u">20.0dip</dimen>
+    <dimen name="bnz">320.0dip</dimen>
+    <dimen name="bo2">0.0dip</dimen>
+    <dimen name="bo4">2.0dip</dimen>
+    <dimen name="bo6">24.0dip</dimen>
+    <dimen name="bo7">576.0dip</dimen>
+    <dimen name="bo8">320.0dip</dimen>
+    <item type="dimen" name="boa">@dimen/bo_</item>
+    <dimen name="bod">160.0dip</dimen>
+    <dimen name="dab">64.0dip</dimen>
+    <dimen name="dex">64.0dip</dimen>
+</resources>

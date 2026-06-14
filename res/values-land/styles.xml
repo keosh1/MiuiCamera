@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="j9f" parent="@style/iig">
+        <item name="aqa">center</item>
+        <item name="aqn">fixed</item>
+    </style>
+    <style name="jg5" parent="@style/j7t">
+        <item name="android:textAppearance">?arn</item>
+        <item name="android:textColor">?rt</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">@integer/eoq</item>
+    </style>
+    <style name="jg8" parent="@style/ij3">
+        <item name="android:layout_gravity">start|bottom|center</item>
+    </style>
+</resources>

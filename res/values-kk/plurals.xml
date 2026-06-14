@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f_8">
+        <item quantity="other">%d секунд алға айналдыру</item>
+        <item quantity="one">%d секунд алға айналдыру</item>
+    </plurals>
+    <plurals name="f_9">
+        <item quantity="other">%d секунд артқа айналдыру</item>
+        <item quantity="one">%d секунд артқа айналдыру</item>
+    </plurals>
+    <plurals name="f_m">
+        <item quantity="other">%d жаңа хабарландыру</item>
+        <item quantity="one">%d жаңа хабарландыру</item>
+    </plurals>
+</resources>

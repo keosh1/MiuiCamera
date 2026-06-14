@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="f_8">
+        <item quantity="other">%d saniyə irəli çəkin</item>
+        <item quantity="one">%d saniyə irəli çəkin</item>
+    </plurals>
+    <plurals name="f_9">
+        <item quantity="other">%d saniyə geri çəkin</item>
+        <item quantity="one">%d saniyə geri çəkin</item>
+    </plurals>
+    <plurals name="f_m">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+</resources>
