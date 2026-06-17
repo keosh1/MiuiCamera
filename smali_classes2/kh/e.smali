@@ -767,7 +767,7 @@
 
     add-int/lit8 v0, v0, 0x1
 
-    const/16 v9, 0xa
+    const/16 v9, 0x6
 
     if-le v0, v9, :cond_in_use_backoff
 
@@ -776,7 +776,7 @@
     goto :catch_3_fatal
 
     :cond_in_use_backoff
-    const-wide/16 v8, 0x258
+    const-wide/16 v8, 0xc8
 
     :try_start_5
     invoke-static {v8, v9}, Ljava/lang/Thread;->sleep(J)V
