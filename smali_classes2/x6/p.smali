@@ -3274,6 +3274,8 @@
     :cond_1c
     iput-object v0, p0, Lx6/p;->B:Landroid/util/Size;
 
+    invoke-interface {p3, v0}, Lu6/j;->Z(Landroid/util/Size;)V
+
     sget-object p1, Ljava/util/Locale;->ENGLISH:Ljava/util/Locale;
 
     const/4 p2, 0x2
