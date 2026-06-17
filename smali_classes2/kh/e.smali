@@ -742,8 +742,50 @@
     return-object p0
 
     :catch_3
-    move-exception v0
+    move-exception v8
 
+    invoke-virtual {v8}, Landroid/hardware/camera2/CameraAccessException;->getReason()I
+
+    move-result v9
+
+    const/4 v10, 0x4
+
+    if-eq v9, v10, :cond_camera_in_use
+
+    move-object v0, v8
+
+    goto :catch_3_fatal
+
+    :cond_camera_in_use
+    iget-object v9, p0, Lkh/c;->a:Ljava/lang/String;
+
+    const-string v10, "CAMERA_IN_USE, backing off and retrying"
+
+    new-array v2, v1, [Ljava/lang/Object;
+
+    invoke-static {v9, v10, v2}, Lcom/android/camera/log/Log;->d(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)V
+
+    add-int/lit8 v0, v0, 0x1
+
+    const/16 v9, 0xa
+
+    if-le v0, v9, :cond_in_use_backoff
+
+    move-object v0, v8
+
+    goto :catch_3_fatal
+
+    :cond_in_use_backoff
+    const-wide/16 v8, 0x258
+
+    :try_start_5
+    invoke-static {v8, v9}, Ljava/lang/Thread;->sleep(J)V
+    :try_end_5
+    .catch Ljava/lang/InterruptedException; {:try_start_5 .. :try_end_5} :catch_2
+
+    goto/16 :goto_4
+
+    :catch_3_fatal
     iget-object v2, p0, Lkh/c;->a:Ljava/lang/String;
 
     new-instance v3, Ljava/lang/StringBuilder;
