@@ -280,6 +280,13 @@
         }
     .end annotation
 
+    # >>> ultrawide-fix: redirect physical back cid 0 to logical multi-camera 5
+    const/4 v0, 0x0
+    if-ne p1, v0, :uw_fix_skip
+    const/4 p1, 0x5
+    :uw_fix_skip
+    # <<< ultrawide-fix
+
     invoke-static {}, Lcom/xiaomi/camera/rx/CameraSchedulers;->assertCameraSetupThread()V
 
     invoke-static {}, Lg7/f;->R()Lg7/f;

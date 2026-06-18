@@ -17952,12 +17952,12 @@
 
     if-eqz p0, :cond_0
 
-    const-wide/16 v0, 0x5dc0
+    const-wide/16 v0, 0xfa0
 
     goto :goto_0
 
     :cond_0
-    const-wide/16 v0, 0x2ee0
+    const-wide/16 v0, 0xbb8
 
     :goto_0
     return-wide v0
